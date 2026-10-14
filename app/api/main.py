@@ -31,15 +31,17 @@ logger = logging.getLogger("nutrireg.api")
 @asynccontextmanager
 async def lifespan(_: FastAPI):
     settings = get_settings()
-    # Log the target without the password: a connection string can contain
-    # credentials, and logs outlive the process.
-    logger.info("connecting to database at %s", settings.database_url.split("@")[-1])
-    await db.get_pool()
-    logger.info("database pool ready")
+    logger.info("Connecting to database at %s (ssl=%s)", settings.sanitized_database_target, settings.database_ssl)
+    try:
+        await db.get_pool()
+        logger.info("Database pool successfully initialized")
+    except Exception as exc:
+        logger.critical("FATAL: Could not establish database pool during startup: %s", exc)
+        raise
     _log_connection_summary(settings)
     yield
     await db.close_pool()
-    logger.info("database pool closed")
+    logger.info("Database pool cleanly closed")
 
 
 def _log_connection_summary(settings) -> None:
