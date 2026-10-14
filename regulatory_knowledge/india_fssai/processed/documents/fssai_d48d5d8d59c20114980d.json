@@ -1,0 +1,45 @@
+{
+  "document_id": "fssai_d48d5d8d59c20114980d",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Contaminants__Toxins_and_Residues_Gazette_Amendment_Notification__25th_May_2026__-_272840.pdf.pdf",
+  "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (25th May 2026) - 272840.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Contaminants, Toxins and Residues",
+  "version": "Current",
+  "effective_date": "25th May 2026",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/contaminants-toxins/272840.pdf",
+  "source_sha256": "f625a2629d2eb28a6dcc9e1035920228f4592be5589232cdcbd2bab22bc573ea",
+  "file_size": 830685,
+  "page_count": 6,
+  "extracted_at": "2026-09-28T21:58:28.084050+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 2,
+  "pages_needing_ocr": 4,
+  "ocr_reason_counts": {
+    "broken_devanagari": 4
+  },
+  "section_count": 2,
+  "chunks_with_section": 5,
+  "chunk_count": 6,
+  "chunk_token_counts": [
+    77,
+    1277,
+    1204,
+    1201,
+    1202,
+    188
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.121,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_d48d5d8d59c20114980d.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_d48d5d8d59c20114980d.jsonl"
+  }
+}

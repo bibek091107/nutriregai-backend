@@ -1,0 +1,52 @@
+{
+  "document_id": "fssai_02b7632862b90d4bb7e3",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__20th_February_2018__-_Gazette_Notification_Fa.pdf",
+  "title": "Food Products Standards and Food Additives Gazette Amendment Notification (20th February 2018) - Gazette_Notification_Fatty_Acid_Edible_Oil_13_03_2018.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "20th February 2018",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/food-products-standards/Gazette_Notification_Fatty_Acid_Edible_Oil_13_03_2018.pdf",
+  "source_sha256": "ea4346400d24e4ecd5a9162ff374e5d2c022b04742ee124bc06d63b5bf862786",
+  "file_size": 1916616,
+  "page_count": 8,
+  "extracted_at": "2026-09-28T21:58:42.447638+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 3,
+  "pages_needing_ocr": 5,
+  "ocr_reason_counts": {
+    "broken_devanagari": 5,
+    "mojibake": 1
+  },
+  "section_count": 2,
+  "chunks_with_section": 11,
+  "chunk_count": 12,
+  "chunk_token_counts": [
+    35,
+    1212,
+    1202,
+    1201,
+    1202,
+    1203,
+    1200,
+    1213,
+    1201,
+    1204,
+    1213,
+    1057
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.228,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_02b7632862b90d4bb7e3.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_02b7632862b90d4bb7e3.jsonl"
+  }
+}

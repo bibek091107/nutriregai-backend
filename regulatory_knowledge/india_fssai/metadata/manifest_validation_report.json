@@ -1,0 +1,1201 @@
+{
+  "generated_at": "2026-09-28T22:02:22.969539+00:00",
+  "manifest_path": "regulatory_knowledge/india_fssai/metadata/manifest.json",
+  "original_entry_count": 217,
+  "clean_entry_count": 217,
+  "dropped_entry_count": 0,
+  "ready_for_processing": 203,
+  "pending_download": 14,
+  "urls_normalized": 0,
+  "paths_normalized": 0,
+  "url_normalization_detail": [],
+  "path_normalization_detail": [],
+  "field_presence": {
+    "authority": "217/217",
+    "jurisdiction": "217/217",
+    "title": "217/217",
+    "source_type": "217/217",
+    "category": "217/217",
+    "local_path": "217/217",
+    "source_url": "217/217",
+    "document_url": "217/217",
+    "version": "217/217",
+    "effective_date": "217/217",
+    "retrieved_at": "217/217"
+  },
+  "warnings": [],
+  "issues": {
+    "dropped_entries": [],
+    "missing_files": [
+      {
+        "index": 33,
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.11 (Other food product and ingredients)",
+        "local_path": "regulatory_knowledge/india_fssai/regulations/Compendium_of_Food_Products_Standards_and_Food_Additives_-_Chapter_2.11__Other_food_product_and_ingredients.pdf"
+      },
+      {
+        "index": 58,
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (12th September 2017) - Gazette_Notification_FPS_FA_Inclusion_Rabbit_19_09_2017(1)(1).pdf",
+        "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__12th_September_2017__-_Gazette_Notification_F.pdf"
+      },
+      {
+        "index": 114,
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (3rd May 2016) - Gazette_Notification_Gluten_11_05_2016(1).pdf",
+        "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__3rd_May_2016__-_Gazette_Notification_Gluten_1.pdf"
+      },
+      {
+        "index": 150,
+        "title": "Food Safety and Standards (Foods for Infant Nutrition) Regulations, 2020 (Extension of Timeline)",
+        "local_path": "regulatory_knowledge/india_fssai/regulations/Food_Safety_and_Standards__Foods_for_Infant_Nutrition__Regulations__2020__Extension_of_Timeline.pdf"
+      },
+      {
+        "index": 190,
+        "title": "FSMS Guidance Document - FSMS Guidance Document FruitsVegetable 15 03 2019",
+        "local_path": "regulatory_knowledge/india_fssai/guidance/FSMS_Guidance_Document_-_FSMS_Guidance_Document_FruitsVegetable_15_03_2019.pdf"
+      },
+      {
+        "index": 191,
+        "title": "FSMS Guidance Document - Format Comments Guidance Document Milk 14 03 2019",
+        "local_path": "regulatory_knowledge/india_fssai/guidance/FSMS_Guidance_Document_-_Format_Comments_Guidance_Document_Milk_14_03_2019.pdf"
+      },
+      {
+        "index": 192,
+        "title": "FSMS Guidance Document - Guidance Document Catering Sector 19 01 2018",
+        "local_path": "regulatory_knowledge/india_fssai/guidance/FSMS_Guidance_Document_-_Guidance_Document_Catering_Sector_19_01_2018.pdf"
+      },
+      {
+        "index": 193,
+        "title": "FSMS Guidance Document - Guidance Document Fish 01 06 2018",
+        "local_path": "regulatory_knowledge/india_fssai/guidance/FSMS_Guidance_Document_-_Guidance_Document_Fish_01_06_2018.pdf"
+      },
+      {
+        "index": 194,
+        "title": "FSMS Guidance Document - Guidance Document Food Grain Warehouse 19 01 2018",
+        "local_path": "regulatory_knowledge/india_fssai/guidance/FSMS_Guidance_Document_-_Guidance_Document_Food_Grain_Warehouse_19_01_2018.pdf"
+      },
+      {
+        "index": 195,
+        "title": "FSMS Guidance Document - Guidance Document Milk 14 03 2019",
+        "local_path": "regulatory_knowledge/india_fssai/guidance/FSMS_Guidance_Document_-_Guidance_Document_Milk_14_03_2019.pdf"
+      },
+      {
+        "index": 196,
+        "title": "FSMS Guidance Document - Guidance Document Nutraceutical 18 05 2018",
+        "local_path": "regulatory_knowledge/india_fssai/guidance/FSMS_Guidance_Document_-_Guidance_Document_Nutraceutical_18_05_2018.pdf"
+      },
+      {
+        "index": 197,
+        "title": "FSMS Guidance Document - Guidance Document Poultry 06 01 2020",
+        "local_path": "regulatory_knowledge/india_fssai/guidance/FSMS_Guidance_Document_-_Guidance_Document_Poultry_06_01_2020.pdf"
+      },
+      {
+        "index": 198,
+        "title": "FSMS Guidance Document - Guidance Document Spices 23 10 2018",
+        "local_path": "regulatory_knowledge/india_fssai/guidance/FSMS_Guidance_Document_-_Guidance_Document_Spices_23_10_2018.pdf"
+      },
+      {
+        "index": 199,
+        "title": "FSMS Guidance Document - Guidance Document flour milling sector 19 01 2018",
+        "local_path": "regulatory_knowledge/india_fssai/guidance/FSMS_Guidance_Document_-_Guidance_Document_flour_milling_sector_19_01_2018.pdf"
+      }
+    ],
+    "non_iso_effective_dates": [
+      {
+        "index": 0,
+        "value": "13th December 2022",
+        "title": "Advertising and Claims Gazette Amendment Notification (13th December 2022) - Gazette_Notification_Amendment_14_12_2022.pdf"
+      },
+      {
+        "index": 1,
+        "value": "30th August 2022",
+        "title": "Advertising and Claims Gazette Amendment Notification (30th August 2022) - Gazette_Notification_Advertisement_01_09_2022.pdf"
+      },
+      {
+        "index": 2,
+        "value": "9th October 2020",
+        "title": "Advertising and Claims Gazette Amendment Notification (9th October 2020) - Gazette_Notification_Claims_Edible_Oil_14_10_2020.pdf"
+      },
+      {
+        "index": 3,
+        "value": "2011",
+        "title": "Food Safety and Standards (Advertising and Claims) Regulation, 2018"
+      },
+      {
+        "index": 4,
+        "value": "2011",
+        "title": "Food Safety and Standards (Advertising and Claims) Regulation, 2018 (Compendium)"
+      },
+      {
+        "index": 5,
+        "value": "10th October 2016",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (10th October 2016) - Gazette_Notification_Removal_Zinc_19_10_2016.pdf"
+      },
+      {
+        "index": 6,
+        "value": "17th October 2024",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (17th October 2024) - 2_Notification dt 17_10_2024.pdf"
+      },
+      {
+        "index": 7,
+        "value": "18th January 2017",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (18th January 2017) - Gazette_Notificaton_Histamine_Level_25_01_2017.pdf"
+      },
+      {
+        "index": 8,
+        "value": "19th March 2018",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (19th March 2018) - Gazette_Notification_Iron_Fortified_Salt_26_03_2018.pdf"
+      },
+      {
+        "index": 9,
+        "value": "20th July 2018",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (20th July 2018) - Gazette_Notification_Tolerance_Limit_Antibiotics_01_08_2018.pdf"
+      },
+      {
+        "index": 10,
+        "value": "21st July 2017",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (21st July 2017) - Gazette_Notification_Second_Amendment_FSS_Contaminants_01_08_2017.pdf"
+      },
+      {
+        "index": 11,
+        "value": "24th December 2018",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (24th December 2018) - Gazette_Notification_MRL_Pesticides_03_01_2019.pdf"
+      },
+      {
+        "index": 12,
+        "value": "25th May 2026",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (25th May 2026) - 272840.pdf"
+      },
+      {
+        "index": 13,
+        "value": "27th December 2017",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (27th December 2017) - Gazette_Notification_FSS_Contaminants_Limit_Aflatoxins_03_01_2017_(2).pdf"
+      },
+      {
+        "index": 14,
+        "value": "3rd December 2014",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (3rd December 2014) - Notification_Antibiotics_Honey(23_12_14).pdf"
+      },
+      {
+        "index": 15,
+        "value": "3rd May 2016",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (3rd May 2016) - Gazette_Notification_Heavy_Metals_11_05_2016.pdf"
+      },
+      {
+        "index": 16,
+        "value": "4th January 2016",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (4th January 2016) - Gazette_Notification_Biotoxins_Limits.pdf"
+      },
+      {
+        "index": 17,
+        "value": "4th November 2015",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (4th November 2015) - Gazette_Notification_Chromium_Gelatin.pdf"
+      },
+      {
+        "index": 18,
+        "value": "4th November 2015",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (4th November 2015) - Gazette_Notification_Crop_Contaminants_Natural_Toxic.pdf"
+      },
+      {
+        "index": 19,
+        "value": "4th November 2015",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (4th November 2015) - Gazette_Notification_Mycotoxins.pdf"
+      },
+      {
+        "index": 20,
+        "value": "5th January 2016",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (5th January 2016) - Gazette_Notification_Melamine_Milk.pdf"
+      },
+      {
+        "index": 21,
+        "value": "7th August 2020",
+        "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (7th August 2020) - 5f3d09f97b78aGazette_Notification_Limit_Metal_19_08_2020.pdf"
+      },
+      {
+        "index": 22,
+        "value": "2011",
+        "title": "Food Safety and Standards (Contaminants, Toxins and Residues) Regulation, 2011"
+      },
+      {
+        "index": 23,
+        "value": "2011",
+        "title": "Food Safety and Standards (Contaminants, Toxins and Residues) Regulation, 2011 (Corrigenda)"
+      },
+      {
+        "index": 24,
+        "value": "2011",
+        "title": "Food Safety and Standards (Contaminants, Toxins and Residues) Regulation, 2011 (Hindi)"
+      },
+      {
+        "index": 25,
+        "value": "2011",
+        "title": "Food Safety and Standards (Contaminants, Toxins and Residues) Regulations, 2011"
+      },
+      {
+        "index": 26,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Amendment number reference"
+      },
+      {
+        "index": 27,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Appendix A"
+      },
+      {
+        "index": 28,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Appendix B"
+      },
+      {
+        "index": 29,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Appendix C"
+      },
+      {
+        "index": 30,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 1 (General)"
+      },
+      {
+        "index": 31,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.1 (Dairy products and analogues)"
+      },
+      {
+        "index": 32,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.10 (Beverages, other than Dairy and Fruits & Vegetables based)"
+      },
+      {
+        "index": 33,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.11 (Other food product and ingredients)"
+      },
+      {
+        "index": 34,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.12 (Proprietary Food)"
+      },
+      {
+        "index": 35,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.13 (Radiation processing of food)"
+      },
+      {
+        "index": 36,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.14 (Gluten free food)"
+      },
+      {
+        "index": 37,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.15"
+      },
+      {
+        "index": 38,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.16 (Hemp seeds and seed products)"
+      },
+      {
+        "index": 39,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.2 (Fats, oils and fat emulsions)"
+      },
+      {
+        "index": 40,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.3 (Fruit & Vegetable products)"
+      },
+      {
+        "index": 41,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.4 (Cereals and Cereal products)"
+      },
+      {
+        "index": 42,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.5 (Meat and Meat products)"
+      },
+      {
+        "index": 43,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.6 (Fish and Fish products)"
+      },
+      {
+        "index": 44,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.7 (Sweets & Confectionary)"
+      },
+      {
+        "index": 45,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.8 (Sweetening agents including Honey)"
+      },
+      {
+        "index": 46,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.9 (Salt, Spices, Condiments and related products)"
+      },
+      {
+        "index": 47,
+        "value": "Current Compendium",
+        "title": "Compendium of Food Products Standards and Food Additives - Chapter 3 (Substances added to food)"
+      },
+      {
+        "index": 48,
+        "value": "10th April 2018",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (10th April 2018) - Gazette_Notification_Food_Grade_19_04_2018.pdf"
+      },
+      {
+        "index": 49,
+        "value": "10th July 2025",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (10th July 2025) - Palm%20Oil_FPSFA_Notification.pdf"
+      },
+      {
+        "index": 50,
+        "value": "10th October 2016",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (10th October 2016) - Gazette_Notification_Micro_Stan_Milk_Meat_19_10_2016.pdf"
+      },
+      {
+        "index": 51,
+        "value": "10th October 2016",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (10th October 2016) - Gazette_Notification_Proprietary_Foods_19_10_2016.pdf"
+      },
+      {
+        "index": 52,
+        "value": "11th January 2016",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (11th January 2016) - Gazette_Notification_Amendment_Fish.pdf"
+      },
+      {
+        "index": 53,
+        "value": "11th January 2023",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (11th January 2023) - Gazette_Notification.pdf"
+      },
+      {
+        "index": 54,
+        "value": "11th September 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (11th September 2017) - Gazette_Notification_FPS_FA_Omission_NonAlcoholic_15_09_2017.pdf"
+      },
+      {
+        "index": 55,
+        "value": "12th July 2013",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (12th July 2013) - Amendment_3_FPS_12_July_2013.pdf"
+      },
+      {
+        "index": 56,
+        "value": "12th October 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (12th October 2017) - Gazette_Notification_Milk_Products_24_10_2017.pdf"
+      },
+      {
+        "index": 57,
+        "value": "12th October 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (12th October 2017) - Gazette_Notification_Oils_Fat_20_10_2017.pdf.pdf"
+      },
+      {
+        "index": 58,
+        "value": "12th September 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (12th September 2017) - Gazette_Notification_FPS_FA_Inclusion_Rabbit_19_09_2017(1)(1).pdf"
+      },
+      {
+        "index": 59,
+        "value": "13th February 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (13th February 2017) - Gazette_Notification_Amendment_Micro_Fish_20_02_2017.pdf"
+      },
+      {
+        "index": 60,
+        "value": "13th February 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (13th February 2017) - Gazette_Notification_Standards_Food_17_02_2017.pdf"
+      },
+      {
+        "index": 61,
+        "value": "13th July 2016",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (13th July 2016) - Gazette_Notification_Plant_Sterol_HFD_25_07_2016.pdf"
+      },
+      {
+        "index": 62,
+        "value": "13th March 2018",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (13th March 2018) - Gazette_Notification_Infant_Milk_Bakery_22_03_2018.pdf"
+      },
+      {
+        "index": 63,
+        "value": "13th March 2018",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (13th March 2018) - Gazette_Notification_Iron_Fortified_Salt_23_03_2018.pdf"
+      },
+      {
+        "index": 64,
+        "value": "13th November 2015",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (13th November 2015) - Gazette_Notification_Biscuit_GMP_Level.pdf"
+      },
+      {
+        "index": 65,
+        "value": "13th November 2015",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (13th November 2015) - Gazette_Notification_Caramel.pdf"
+      },
+      {
+        "index": 66,
+        "value": "13th November 2015",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (13th November 2015) - Gazette_Notification_Steviol(1).pdf"
+      },
+      {
+        "index": 67,
+        "value": "13th September 2022",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (13th September 2022) - 6328012db7fa8Gazette_Notification_FSS_19_09_2022.pdf"
+      },
+      {
+        "index": 68,
+        "value": "14th June 2016",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (14th June 2016) - Gazette_Notification_Cotton_Seed_Rice_Bran_Oil_04_07_2016.pdf"
+      },
+      {
+        "index": 69,
+        "value": "14th September 2016",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (14th September 2016) - Gazette_Notification_Raw_Pulse_16_09_2016.pdf"
+      },
+      {
+        "index": 70,
+        "value": "15th July 2016",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (15th July 2016) - Gazette_Notification_Silver_Leaf_19_07_2016.pdf"
+      },
+      {
+        "index": 71,
+        "value": "15th May 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (15th May 2017) - Gazette_Notification_Chocolate_Standards_01_06_2017.pdf"
+      },
+      {
+        "index": 72,
+        "value": "15th November 2016",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (15th November 2016) - Gazette_Notification_PDW_21_11_2016.pdf"
+      },
+      {
+        "index": 73,
+        "value": "15th November 2021",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (15th November 2021) - 619b553646e10Gazette_Notification_Oil_Flour_22_11_2021.pdf"
+      },
+      {
+        "index": 74,
+        "value": "15th September 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (15th September 2017) - Gazette_Notification_Fish_Products_25_09_2017.pdf"
+      },
+      {
+        "index": 75,
+        "value": "15th September 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (15th September 2017) - Gazette_Notification_Non_Alcoholic_20_09_2017.pdf"
+      },
+      {
+        "index": 76,
+        "value": "16th November 2018",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (16th November 2018) - 5bfd0a04c4d4bGazette_Notification_Children_Supplement_26_11_2018.pdf"
+      },
+      {
+        "index": 77,
+        "value": "16th September 2020",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (16th September 2020) - 5f6443d153fc8Gazette_Notification_FPS_FA_Amendment_AppendixA_18_09_2020.pdf"
+      },
+      {
+        "index": 78,
+        "value": "17th February 2015",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (17th February 2015) - Gazette_Notification_Nutritional.pdf"
+      },
+      {
+        "index": 79,
+        "value": "17th November 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (17th November 2017) - Gazette_Notification_Fruits_Vegetables_28_11_2017.pdf"
+      },
+      {
+        "index": 80,
+        "value": "17th November 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (17th November 2017) - Gazette_Notification_Vertical_Standards_29_11_2017(1).pdf"
+      },
+      {
+        "index": 81,
+        "value": "18th March 2021",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (18th March 2021) - 60582e2393834Gazette_Notification_SheaButter_22_03_2021.pdf"
+      },
+      {
+        "index": 82,
+        "value": "18th September 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (18th September 2017) - Gazette_Notification_FPS_FA_Maida_Noodles_21_09_2017.pdf"
+      },
+      {
+        "index": 83,
+        "value": "19th June 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (19th June 2017) - Gazette_Notification_Special_Dietary_Food_22_06_2017.pdf"
+      },
+      {
+        "index": 84,
+        "value": "19th November 2018",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (19th November 2018) - 5bfd090473e77Gazette_Notification_Kachi_Ghani_27_11_2018.pdf"
+      },
+      {
+        "index": 85,
+        "value": "19th November 2018",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (19th November 2018) - 5bfd0937e84e3Gazette_Notification_DatePasta_27_11_2018.pdf"
+      },
+      {
+        "index": 86,
+        "value": "19th November 2018",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (19th November 2018) - 5bfd095d0ad63Gazette_Notification_DairyProducts_27_11_2018.pdf"
+      },
+      {
+        "index": 87,
+        "value": "20th February 2018",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (20th February 2018) - Gazette_Notification_Fatty_Acid_Edible_Oil_13_03_2018.pdf"
+      },
+      {
+        "index": 88,
+        "value": "20th July 2018",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (20th July 2018) - Gazette_Notification_Ice_01_08_2018.pdf"
+      },
+      {
+        "index": 89,
+        "value": "20th July 2018",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (20th July 2018) - Gazette_Notification_Spring_Water_01_08_2018.pdf"
+      },
+      {
+        "index": 90,
+        "value": "21st February 2023",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (21st February 2023) - 63fdb05adf62csample.pdf"
+      },
+      {
+        "index": 91,
+        "value": "21st March 2018",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (21st March 2018) - Gazette_Notification_Fruits_Vegetables_04_04_2018.pdf"
+      },
+      {
+        "index": 92,
+        "value": "21st October 2024",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (21st October 2024) - GAZETTE%20NOTIFICATION%20DATED%2021_10_2024_ammendments.pdf"
+      },
+      {
+        "index": 93,
+        "value": "23rd August 2016",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (23rd August 2016) - Gazette_Notification_Amendment_Packaging_31_08_2016.pdf"
+      },
+      {
+        "index": 94,
+        "value": "23rd July 2020",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (23rd July 2020) - 5f27ec09de401Gazette_Notification_Standards_Frozen_03_08_2020.pdf"
+      },
+      {
+        "index": 95,
+        "value": "23rd June 2020",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (23rd June 2020) - 5f227289d2b07Gazette_Notification_Microbiological_Standards_30_07_2020.pdf"
+      },
+      {
+        "index": 96,
+        "value": "24th October 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (24th October 2017) - Gazette_Notification_Standards_Tapioca_Sago_03_11_2017.pdf"
+      },
+      {
+        "index": 97,
+        "value": "25th October 2016",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (25th October 2016) - Gazette_Notification_Carbonated_Fruit_Drink_01_11_2016.pdf"
+      },
+      {
+        "index": 98,
+        "value": "26th July 2021",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (26th July 2021) - 6103dc2e5287aGazette_Notification_Oil_30_07_2021.pdf"
+      },
+      {
+        "index": 99,
+        "value": "26th November 2018",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (26th November 2018) - 5c07795751738Gazette_Notification_Meat_Products_05_12_2018.pdf"
+      },
+      {
+        "index": 100,
+        "value": "27th December 2021",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (27th December 2021) - 61ce91bf0f10eGazettte_Notification_Ghee_Milk_31_12_2021.pdf"
+      },
+      {
+        "index": 101,
+        "value": "27th June 2013",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (27th June 2013) - GazetteNotificationEnglish(09-07-2013).pdf"
+      },
+      {
+        "index": 102,
+        "value": "27th October 2022",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (27th October 2022) - 635f6a08b7c16Gazette_Notification_Processing_Aids_31_10_2022.pdf"
+      },
+      {
+        "index": 103,
+        "value": "28th November 2019",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (28th November 2019) - 5de756dbc57f2Gazette_Notification_Goat_Sheep_Milk_04_12_2019.pdf"
+      },
+      {
+        "index": 104,
+        "value": "29th December 2016",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (29th December 2016) - Gazette_Notification_Iron_Filling_Tea_05_01_2017.pdf"
+      },
+      {
+        "index": 105,
+        "value": "29th December 2020",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (29th December 2020) - 5fedb66ac1b15Gazette_Notification_FPS_Tenth_amendment_31_12_2020.pdf"
+      },
+      {
+        "index": 106,
+        "value": "29th January 2019",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (29th January 2019) - Gazette_Notification_Drinking_Water_05_02_2019.pdf"
+      },
+      {
+        "index": 107,
+        "value": "2nd August 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (2nd August 2017) - Gazette_Notification_Standards_Fruits_FPSFA_09_08_2017.pdf"
+      },
+      {
+        "index": 108,
+        "value": "2nd December 2016",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (2nd December 2016) - Gazette_Notification_Caffe_Beverages_blue_tint_13_12_2016.pdf"
+      },
+      {
+        "index": 109,
+        "value": "2nd September 2020",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (2nd September 2020) - 5f50bca66e5bdGazette_Notification_Standards_Milk_Cheese_03_09_2020.pdf"
+      },
+      {
+        "index": 110,
+        "value": "30th October 2019",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (30th October 2019) - 5dc10699f2318Gazette_Notification_Standards_Coffee_Water_05_11_2019.pdf"
+      },
+      {
+        "index": 111,
+        "value": "31st January 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (31st January 2017) - Gazette_Notification_FPS_FA_Amend_Oil_Fat_Oats_Pasta_09_02_2017.pdf"
+      },
+      {
+        "index": 112,
+        "value": "31st July 2017",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (31st July 2017) - Gazette_Notification_FPS_FA_Alcoholic_Beverages_08_08_2017.pdf"
+      },
+      {
+        "index": 113,
+        "value": "31st July 2018",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (31st July 2018) - Gazette_Notification_Pulses_Grains_Maize_14_08_2018.pdf"
+      },
+      {
+        "index": 114,
+        "value": "3rd May 2016",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (3rd May 2016) - Gazette_Notification_Gluten_11_05_2016(1).pdf"
+      },
+      {
+        "index": 115,
+        "value": "3rd November 2021",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (3rd November 2021) - 6188bd7ded736Gazette_Notification_Oats_Tolerance_08_11_2021.pdf"
+      },
+      {
+        "index": 116,
+        "value": "4th August 2015",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (4th August 2015) - Gazette_Notification_TFA_28_08_2015.pdf"
+      },
+      {
+        "index": 117,
+        "value": "4th March 2021",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (4th March 2021) - 6047505fe1808Gazette_Notification_Amendment_FPS_FA_09_03_2021.pdf"
+      },
+      {
+        "index": 118,
+        "value": "4th May 2018",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (4th May 2018) - Gazette_Notification_Standards_Soybean_10_05_2018.pdf"
+      },
+      {
+        "index": 119,
+        "value": "4th November 2015",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (4th November 2015) - Gazette_Notification_Glucose_OXL_enzymes.pdf"
+      },
+      {
+        "index": 120,
+        "value": "4th November 2015",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (4th November 2015) - Gazette_Notification_Pullulan.pdf"
+      },
+      {
+        "index": 121,
+        "value": "5th December 2014",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (5th December 2014) - Notification_EFF(23_12_14).pdf"
+      },
+      {
+        "index": 122,
+        "value": "5th July 2019",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (5th July 2019) - 5d2d799789119Gazette_Notification_Chia_Oil_16_07_2019.pdf"
+      },
+      {
+        "index": 123,
+        "value": "5th July 2019",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (5th July 2019) - Gazette_Notification_Oregano_15_07_2019.pdf"
+      },
+      {
+        "index": 124,
+        "value": "5th September 2016",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (5th September 2016) - Gazette_Notification_Additive_Harmonization_16_09_2016.pdf"
+      },
+      {
+        "index": 125,
+        "value": "7th June 2013",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (7th June 2013) - GazetteNotificationEnglish(20-08-2013).pdf"
+      },
+      {
+        "index": 126,
+        "value": "8th November 2018",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (8th November 2018) - 5bee537b540a1Gazette_Notification_Additives_16_11_2018.pdf"
+      },
+      {
+        "index": 127,
+        "value": "9th July 2020",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (9th July 2020) - 5f362b888233bGazette_Notification_FSS_Additives_Third_Amendment_14_08_2020.pdf"
+      },
+      {
+        "index": 128,
+        "value": "9th July 2020",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (9th July 2020) - 5f3cd3f547502Gazette_Notification_FSS_Additives_2nd_%20_Amendment_14_08_2020.pdf"
+      },
+      {
+        "index": 129,
+        "value": "9th July 2020",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (9th July 2020) - 5f3cd4126e2c6Gazette_Notification_FSS_Additives_04th_Amendment_14_08_2020.pdf"
+      },
+      {
+        "index": 130,
+        "value": "9th October 2020",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (9th October 2020) - 5f86e028b231eGazette_Notification_Spices_14_10_2020.pdf"
+      },
+      {
+        "index": 131,
+        "value": "9th October 2020",
+        "title": "Food Products Standards and Food Additives Gazette Amendment Notification (9th October 2020) - 5f8d5a959fdedGazette_Notification_Processing_Aids_15_10_2020.pdf"
+      },
+      {
+        "index": 132,
+        "value": "2011",
+        "title": "Food Safety and Standards (Food Products Standards and Food Additives) Regulation, 2011"
+      },
+      {
+        "index": 133,
+        "value": "2011",
+        "title": "Food Safety and Standards (Food Products Standards and Food Additives) Regulation, 2011 (Corrigenda)"
+      },
+      {
+        "index": 134,
+        "value": "2011",
+        "title": "Food Safety and Standards (Food Products Standards and Food Additives) Regulation, 2011 (Hindi)"
+      },
+      {
+        "index": 135,
+        "value": "2011",
+        "title": "Food Safety and Standards (Food Products Standards and Food Additives) Regulations, 2011"
+      },
+      {
+        "index": 136,
+        "value": "2011",
+        "title": "Financial Regulations, 2023"
+      },
+      {
+        "index": 137,
+        "value": "2011",
+        "title": "Food Safety and Standards (Alcoholic Beverages) Regulation, 2018"
+      },
+      {
+        "index": 138,
+        "value": "2011",
+        "title": "Food Safety and Standards (Alcoholic Beverages) Regulation, 2018 (Compendium)"
+      },
+      {
+        "index": 139,
+        "value": "2011",
+        "title": "Food Safety and Standards (Alcoholic Beverages) Regulations, 2018"
+      },
+      {
+        "index": 140,
+        "value": "2011",
+        "title": "Food Safety and Standards (Approval for Non-Specific Food and Food Ingredients) Regulation, 2017"
+      },
+      {
+        "index": 141,
+        "value": "2011",
+        "title": "Food Safety and Standards (Approval for Non-Specific Food and Food Ingredients) Regulation, 2017 (Compendium)"
+      },
+      {
+        "index": 142,
+        "value": "2011",
+        "title": "Food Safety and Standards (Ayurveda Aahara) Regulations, 2022"
+      },
+      {
+        "index": 143,
+        "value": "2011",
+        "title": "Food Safety and Standards (Ayurveda Aahara) Regulations, 2022 (Order (25 Jul 2025))"
+      },
+      {
+        "index": 144,
+        "value": "2011",
+        "title": "Food Safety and Standards (Food Recall Procedure) Regulation, 2017"
+      },
+      {
+        "index": 145,
+        "value": "2011",
+        "title": "Food Safety and Standards (Food Recall Procedure) Regulation, 2017 (Guidelines)"
+      },
+      {
+        "index": 146,
+        "value": "2011",
+        "title": "Food Safety and Standards (Food Safety Auditing) Regulation, 2018"
+      },
+      {
+        "index": 147,
+        "value": "2011",
+        "title": "Food Safety and Standards (Foods for Infant Nutrition) Regulations, 2020"
+      },
+      {
+        "index": 148,
+        "value": "2011",
+        "title": "Food Safety and Standards (Foods for Infant Nutrition) Regulations, 2020 (Compendium)"
+      },
+      {
+        "index": 149,
+        "value": "2011",
+        "title": "Food Safety and Standards (Foods for Infant Nutrition) Regulations, 2020 (Corrigenda)"
+      },
+      {
+        "index": 150,
+        "value": "2011",
+        "title": "Food Safety and Standards (Foods for Infant Nutrition) Regulations, 2020 (Extension of Timeline)"
+      },
+      {
+        "index": 151,
+        "value": "2011",
+        "title": "Food Safety and Standards (Fortification of Food) Regulation, 2018"
+      },
+      {
+        "index": 152,
+        "value": "2011",
+        "title": "Food Safety and Standards (Fortification of Food) Regulation, 2018"
+      },
+      {
+        "index": 153,
+        "value": "2011",
+        "title": "Food Safety and Standards (Fortification of Food) Regulation, 2018 (Compendium)"
+      },
+      {
+        "index": 154,
+        "value": "2011",
+        "title": "Food Safety and Standards (Import) Regulation, 2017"
+      },
+      {
+        "index": 155,
+        "value": "2011",
+        "title": "Food Safety and Standards (Import) Regulation, 2017 (Compendium)"
+      },
+      {
+        "index": 156,
+        "value": "2011",
+        "title": "Food Safety and Standards (Laboratory and Sampling Analysis) Regulation, 2011"
+      },
+      {
+        "index": 157,
+        "value": "2011",
+        "title": "Food Safety and Standards (Laboratory and Sampling Analysis) Regulation, 2011 (Compendium)"
+      },
+      {
+        "index": 158,
+        "value": "2011",
+        "title": "Food Safety and Standards (Laboratory and Sampling Analysis) Regulation, 2011 (Corrigenda)"
+      },
+      {
+        "index": 159,
+        "value": "2011",
+        "title": "Food Safety and Standards (Laboratory and Sampling Analysis) Regulation, 2011 (Hindi)"
+      },
+      {
+        "index": 160,
+        "value": "2011",
+        "title": "Food Safety and Standards (Licensing and Registration of Food Businesses) Regulation, 2011"
+      },
+      {
+        "index": 161,
+        "value": "2011",
+        "title": "Food Safety and Standards (Licensing and Registration of Food Businesses) Regulation, 2011 (Compendium)"
+      },
+      {
+        "index": 162,
+        "value": "2011",
+        "title": "Food Safety and Standards (Licensing and Registration of Food Businesses) Regulation, 2011 (Corrigenda)"
+      },
+      {
+        "index": 163,
+        "value": "2011",
+        "title": "Food Safety and Standards (Licensing and Registration of Food Businesses) Regulation, 2011 (Direction)"
+      },
+      {
+        "index": 164,
+        "value": "2011",
+        "title": "Food Safety and Standards (Licensing and Registration of Food Businesses) Regulation, 2011 (Hindi)"
+      },
+      {
+        "index": 165,
+        "value": "2011",
+        "title": "Food Safety and Standards (Organic Food) Regulation, 2017"
+      },
+      {
+        "index": 166,
+        "value": "2011",
+        "title": "Food Safety and Standards (Organic Food) Regulation, 2017 (Compendium)"
+      },
+      {
+        "index": 167,
+        "value": "2011",
+        "title": "Food Safety and Standards (Organic Foods) Regulations, 2017"
+      },
+      {
+        "index": 168,
+        "value": "2011",
+        "title": "Food Safety and Standards (Packaging) Regulation, 2018"
+      },
+      {
+        "index": 169,
+        "value": "2011",
+        "title": "Food Safety and Standards (Packaging) Regulation, 2018 (Compendium)"
+      },
+      {
+        "index": 170,
+        "value": "2011",
+        "title": "Food Safety and Standards (Packaging) Regulation, 2018 (Guidelines (rPET))"
+      },
+      {
+        "index": 171,
+        "value": "2011",
+        "title": "Food Safety and Standards (Prohibition and Restriction of Sales) Regulation, 2011"
+      },
+      {
+        "index": 172,
+        "value": "2011",
+        "title": "Food Safety and Standards (Prohibition and Restriction of Sales) Regulation, 2011 (Compendium)"
+      },
+      {
+        "index": 173,
+        "value": "2011",
+        "title": "Food Safety and Standards (Prohibition and Restriction of Sales) Regulation, 2011 (Corrigenda)"
+      },
+      {
+        "index": 174,
+        "value": "2011",
+        "title": "Food Safety and Standards (Prohibition and Restriction of Sales) Regulation, 2011 (Hindi)"
+      },
+      {
+        "index": 175,
+        "value": "2011",
+        "title": "Food Safety and Standards (Recognition and Notification of Laboratories) Regulation, 2018"
+      },
+      {
+        "index": 176,
+        "value": "2011",
+        "title": "Food Safety and Standards (Recovery and Distribution of Surplus Food) Regulation, 2019"
+      },
+      {
+        "index": 177,
+        "value": "2011",
+        "title": "Food Safety and Standards (Safe Food and Balanced Diets for Children in School) Regulations, 2020"
+      },
+      {
+        "index": 178,
+        "value": "2011",
+        "title": "Food Safety and Standards (Vegan Foods) Regulations, 2022"
+      },
+      {
+        "index": 179,
+        "value": "2011",
+        "title": "Food Safety and Standards (Vegan Foods) Regulations, 2022 (Application Fees for Vegan Logo Endorsement Applications as per Food Safety and Standards (Vegan Foods) Regulations, 2022)"
+      },
+      {
+        "index": 180,
+        "value": "2011",
+        "title": "Food Safety and Standards (Vegan Foods) Regulations, 2022 (Implementing the process for prior approval and risk assessment through the single window system (ePAAS) (Uploaded on: 06.05.2026))"
+      },
+      {
+        "index": 181,
+        "value": "2011",
+        "title": "Food Safety and Standards (Vegan Foods) Regulations, 2022 (Revised guidelines dated 24th February 2023 for submission of applications for endorsement of vegan logo and formats thereof (Uploaded on 27.02.2022))"
+      },
+      {
+        "index": 182,
+        "value": "2011",
+        "title": "Procedure for Transaction of Business of the Central Advisory Committee Regulations, 2010"
+      },
+      {
+        "index": 183,
+        "value": "2011",
+        "title": "Procedure for Transaction of Business of the Central Advisory Committee Regulations, 2010 (Compendium)"
+      },
+      {
+        "index": 184,
+        "value": "2011",
+        "title": "Recruitment and Appointment Regulations, 2018"
+      },
+      {
+        "index": 185,
+        "value": "2011",
+        "title": "Salary, Allowances and Other Conditions of Service of Officers and Employees Regulations, 2013"
+      },
+      {
+        "index": 186,
+        "value": "2011",
+        "title": "Transaction of Business and Procedure for the Scientific Committee and Scientific Panel Regulations, 2016"
+      },
+      {
+        "index": 187,
+        "value": "2011",
+        "title": "Transaction of Business and Procedure for the Scientific Committee and Scientific Panel Regulations, 2016 (Compendium)"
+      },
+      {
+        "index": 188,
+        "value": "2011",
+        "title": "Transaction of Business at its Meetings Regulations, 2010"
+      },
+      {
+        "index": 189,
+        "value": "2011",
+        "title": "Transaction of Business at its Meetings Regulations, 2010 (Compendium)"
+      },
+      {
+        "index": 190,
+        "value": "Current Guidance",
+        "title": "FSMS Guidance Document - FSMS Guidance Document FruitsVegetable 15 03 2019"
+      },
+      {
+        "index": 191,
+        "value": "Current Guidance",
+        "title": "FSMS Guidance Document - Format Comments Guidance Document Milk 14 03 2019"
+      },
+      {
+        "index": 192,
+        "value": "Current Guidance",
+        "title": "FSMS Guidance Document - Guidance Document Catering Sector 19 01 2018"
+      },
+      {
+        "index": 193,
+        "value": "Current Guidance",
+        "title": "FSMS Guidance Document - Guidance Document Fish 01 06 2018"
+      },
+      {
+        "index": 194,
+        "value": "Current Guidance",
+        "title": "FSMS Guidance Document - Guidance Document Food Grain Warehouse 19 01 2018"
+      },
+      {
+        "index": 195,
+        "value": "Current Guidance",
+        "title": "FSMS Guidance Document - Guidance Document Milk 14 03 2019"
+      },
+      {
+        "index": 196,
+        "value": "Current Guidance",
+        "title": "FSMS Guidance Document - Guidance Document Nutraceutical 18 05 2018"
+      },
+      {
+        "index": 197,
+        "value": "Current Guidance",
+        "title": "FSMS Guidance Document - Guidance Document Poultry 06 01 2020"
+      },
+      {
+        "index": 198,
+        "value": "Current Guidance",
+        "title": "FSMS Guidance Document - Guidance Document Spices 23 10 2018"
+      },
+      {
+        "index": 199,
+        "value": "Current Guidance",
+        "title": "FSMS Guidance Document - Guidance Document flour milling sector 19 01 2018"
+      },
+      {
+        "index": 200,
+        "value": "2011",
+        "title": "Food Safety and Standards (Food or Health Supplements, Nutraceuticals, Foods for Special Dietary Uses, Foods for Special Medical Purpose, Functional Foods and Novel Food) Regulations, 2016"
+      },
+      {
+        "index": 201,
+        "value": "2011",
+        "title": "Food Safety and Standards (Health Supplements, Nutraceuticals, Food for Special Dietary Use, Food for Special Medical Purpose, Functional Food and Novel Food) Regulations, 2016"
+      },
+      {
+        "index": 202,
+        "value": "2011",
+        "title": "Food Safety and Standards (Health Supplements, Nutraceuticals, Food for Special Dietary Use, Food for Special Medical Purpose, Functional Food and Novel Food) Regulations, 2016 (Compendium)"
+      },
+      {
+        "index": 203,
+        "value": "2011",
+        "title": "Food Safety and Standards (Health Supplements, Nutraceuticals, Food for Special Dietary Use, Food for Special Medical Purpose, Functional Food and Novel Food) Regulations, 2016 (Direction (18 Oct 2022))"
+      },
+      {
+        "index": 204,
+        "value": "11th October 2022",
+        "title": "Health Supplements / Nutraceuticals / Functional Foods / Novel Food Gazette Amendment Notification (11th October 2022) - Gazette_Notification_Product_14_10_2022.pdf"
+      },
+      {
+        "index": 205,
+        "value": "6th September 2021",
+        "title": "Health Supplements / Nutraceuticals / Functional Foods / Novel Food Gazette Amendment Notification (6th September 2021) - 6138887092069Gazette_Notification_Nutra_08_09_2021.pdf"
+      },
+      {
+        "index": 206,
+        "value": "2011",
+        "title": "Food Safety and Standards (Labelling and Display) Regulations, 2020"
+      },
+      {
+        "index": 207,
+        "value": "2011",
+        "title": "Food Safety and Standards (Labelling and Display) Regulations, 2020 (Compendium)"
+      },
+      {
+        "index": 208,
+        "value": "2011",
+        "title": "Food Safety and Standards (Packaging and Labelling) Regulations, 2011"
+      },
+      {
+        "index": 209,
+        "value": "10th September 2021",
+        "title": "Labelling and Display Gazette Amendment Notification (10th September 2021) - Gazette_Notification_Oil_Sweetner_16_09_2021.pdf"
+      },
+      {
+        "index": 210,
+        "value": "11th October 2022",
+        "title": "Labelling and Display Gazette Amendment Notification (11th October 2022) - Gazette_Notification_Labelling_14_10_2022.pdf"
+      },
+      {
+        "index": 211,
+        "value": "24th March 2026",
+        "title": "Labelling and Display Gazette Amendment Notification (24th March 2026) - Notification dt 24_03_2026_NRC.pdf"
+      },
+      {
+        "index": 212,
+        "value": "27th January 2022",
+        "title": "Labelling and Display Gazette Amendment Notification (27th January 2022) - Gazette_Notification_Water_27_01_2022.pdf"
+      },
+      {
+        "index": 213,
+        "value": "28th March 2025",
+        "title": "Labelling and Display Gazette Amendment Notification (28th March 2025) - FSS_Packaging_Amendment Regulations2025 related to recycled plastics.pdf"
+      },
+      {
+        "index": 214,
+        "value": "30th August 2022",
+        "title": "Labelling and Display Gazette Amendment Notification (30th August 2022) - Gazette_Notification_Plastic_01_09_2022.pdf"
+      },
+      {
+        "index": 215,
+        "value": "8th August 2025",
+        "title": "Labelling and Display Gazette Amendment Notification (8th August 2025) - coffee chicory_gazette.pdf"
+      },
+      {
+        "index": 216,
+        "value": "9th September 2022",
+        "title": "Labelling and Display Gazette Amendment Notification (9th September 2022) - Gazette_Notification_FSS_Label_12_09_2022.pdf"
+      }
+    ],
+    "duplicate_document_ids": {},
+    "document_urls_shared_by_multiple_entries": {}
+  },
+  "counts": {
+    "non_iso_effective_date": 217,
+    "missing_file": 14
+  },
+  "notes": [
+    "manifest.json is read-only; all output is written to new files",
+    "invalid URLs and unsafe paths were removed and reported, never replaced",
+    "missing files are recorded as PENDING_DOWNLOAD, not as errors",
+    "source_url is a portal/landing page and is reused across entries; document_url is the per-document locator"
+  ]
+}

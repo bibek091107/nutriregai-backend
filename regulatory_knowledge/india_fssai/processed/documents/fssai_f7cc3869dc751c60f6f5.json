@@ -1,0 +1,46 @@
+{
+  "document_id": "fssai_f7cc3869dc751c60f6f5",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Contaminants__Toxins_and_Residues_Gazette_Amendment_Notification__27th_December_2017__-_Gazette_Notification_FSS_Contami.pdf",
+  "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (27th December 2017) - Gazette_Notification_FSS_Contaminants_Limit_Aflatoxins_03_01_2017_(2).pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Contaminants, Toxins and Residues",
+  "version": "Current",
+  "effective_date": "27th December 2017",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/contaminants-toxins/Gazette_Notification_FSS_Contaminants_Limit_Aflatoxins_03_01_2017_(2).pdf",
+  "source_sha256": "98621429f2464c2231646d66cf5e75ea124030c7171ebda33a6311cbbfb851e3",
+  "file_size": 297295,
+  "page_count": 4,
+  "extracted_at": "2026-09-28T21:58:28.198118+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 1,
+  "pages_needing_ocr": 3,
+  "ocr_reason_counts": {
+    "low_text": 1,
+    "image_dominated": 1,
+    "broken_devanagari": 2,
+    "mojibake": 1
+  },
+  "section_count": 2,
+  "chunks_with_section": 3,
+  "chunk_count": 4,
+  "chunk_token_counts": [
+    35,
+    1215,
+    1221,
+    855
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.113,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_f7cc3869dc751c60f6f5.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_f7cc3869dc751c60f6f5.jsonl"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "document_id": "fssai_17a1b792aba2fa5c3353",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__18th_March_2021__-_60582e2393834Gazette_Notif.pdf",
+  "title": "Food Products Standards and Food Additives Gazette Amendment Notification (18th March 2021) - 60582e2393834Gazette_Notification_SheaButter_22_03_2021.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "18th March 2021",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/food-products-standards/60582e2393834Gazette_Notification_SheaButter_22_03_2021.pdf",
+  "source_sha256": "5bbe63584c75eaf19429670c7af6692b2c8d888a032bc7caecfa13ab666b2c04",
+  "file_size": 1354244,
+  "page_count": 8,
+  "extracted_at": "2026-09-28T21:58:40.509757+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 2,
+  "pages_needing_ocr": 6,
+  "ocr_reason_counts": {
+    "broken_devanagari": 6
+  },
+  "section_count": 2,
+  "chunks_with_section": 9,
+  "chunk_count": 10,
+  "chunk_token_counts": [
+    77,
+    1244,
+    1212,
+    1235,
+    1220,
+    1200,
+    1217,
+    1225,
+    1208,
+    218
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.196,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_17a1b792aba2fa5c3353.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_17a1b792aba2fa5c3353.jsonl"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "document_id": "fssai_b15ab520e14c4fac7377",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Food_Safety_and_Standards__Vegan_Foods__Regulations__2022__Application_Fees_for_Vegan_Logo_Endorsement_Applications_as_p.pdf",
+  "title": "Food Safety and Standards (Vegan Foods) Regulations, 2022 (Application Fees for Vegan Logo Endorsement Applications as per Food Safety and Standards (Vegan Foods) Regulations, 2022)",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "General Regulatory Framework",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/Vegan%20Application%20Fees%20Revised%20Order%20Nov%202023.pdf",
+  "source_sha256": "2a536700b1c8d1a1554fb420e3f9a087407a987bd613c117ddb22fe948e8e893",
+  "file_size": 183208,
+  "page_count": 1,
+  "extracted_at": "2026-09-28T22:00:07.665998+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 0,
+  "pages_needing_ocr": 1,
+  "ocr_reason_counts": {
+    "low_text": 1,
+    "image_dominated": 1
+  },
+  "section_count": 0,
+  "chunks_with_section": 0,
+  "chunk_count": 0,
+  "chunk_token_counts": [],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.001,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_b15ab520e14c4fac7377.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_b15ab520e14c4fac7377.jsonl"
+  }
+}

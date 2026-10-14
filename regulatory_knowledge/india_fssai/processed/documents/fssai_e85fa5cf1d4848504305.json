@@ -1,0 +1,47 @@
+{
+  "document_id": "fssai_e85fa5cf1d4848504305",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__31st_January_2017__-_Gazette_Notification_FPS.pdf",
+  "title": "Food Products Standards and Food Additives Gazette Amendment Notification (31st January 2017) - Gazette_Notification_FPS_FA_Amend_Oil_Fat_Oats_Pasta_09_02_2017.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "31st January 2017",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/food-products-standards/Gazette_Notification_FPS_FA_Amend_Oil_Fat_Oats_Pasta_09_02_2017.pdf",
+  "source_sha256": "65de586fac4f4cfe5db22b2d108fd2c8da889c6103c3d38e42b866e70e019476",
+  "file_size": 784509,
+  "page_count": 8,
+  "extracted_at": "2026-09-28T21:58:51.749532+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 4,
+  "pages_needing_ocr": 4,
+  "ocr_reason_counts": {
+    "broken_devanagari": 4
+  },
+  "section_count": 2,
+  "chunks_with_section": 7,
+  "chunk_count": 8,
+  "chunk_token_counts": [
+    257,
+    1207,
+    1213,
+    1233,
+    1201,
+    1206,
+    1201,
+    147
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.157,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_e85fa5cf1d4848504305.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_e85fa5cf1d4848504305.jsonl"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "document_id": "fssai_9c3637146b099716dbd6",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Food_Safety_and_Standards__Prohibition_and_Restriction_of_Sales__Regulation__2011__Corrigenda.pdf",
+  "title": "Food Safety and Standards (Prohibition and Restriction of Sales) Regulation, 2011 (Corrigenda)",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "General Regulatory Framework",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/prohibition.pdf",
+  "source_sha256": "ffe4f280eaaca3a6cdc5fb49c7dc87795f082a448d836c954c88ca0df6314c8e",
+  "file_size": 401679,
+  "page_count": 1,
+  "extracted_at": "2026-09-28T22:00:06.320509+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 0,
+  "pages_needing_ocr": 1,
+  "ocr_reason_counts": {
+    "low_text": 1,
+    "image_dominated": 1
+  },
+  "section_count": 0,
+  "chunks_with_section": 0,
+  "chunk_count": 0,
+  "chunk_token_counts": [],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.001,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_9c3637146b099716dbd6.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_9c3637146b099716dbd6.jsonl"
+  }
+}

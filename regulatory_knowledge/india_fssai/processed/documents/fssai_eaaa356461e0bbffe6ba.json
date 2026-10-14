@@ -1,0 +1,39 @@
+{
+  "document_id": "fssai_eaaa356461e0bbffe6ba",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Food_Safety_and_Standards__Laboratory_and_Sampling_Analysis__Regulation__2011__Hindi.pdf",
+  "title": "Food Safety and Standards (Laboratory and Sampling Analysis) Regulation, 2011 (Hindi)",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "General Regulatory Framework",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/FSS_Laboratory_Sampling_Analysis_Regulation_Hindi.pdf",
+  "source_sha256": "ad87f1565238837e166965bde2ea4ba394b8f8d2c771357e5301d3323c277b4f",
+  "file_size": 2752512,
+  "page_count": 11,
+  "extracted_at": "2026-09-28T21:59:58.815645+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 0,
+  "pages_needing_ocr": 11,
+  "ocr_reason_counts": {
+    "low_text": 11,
+    "image_dominated": 11
+  },
+  "section_count": 0,
+  "chunks_with_section": 0,
+  "chunk_count": 0,
+  "chunk_token_counts": [],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.008,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_eaaa356461e0bbffe6ba.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_eaaa356461e0bbffe6ba.jsonl"
+  }
+}

@@ -1,0 +1,11 @@
+regulatory_knowledge/
+app/uploads/
+tests/
+scripts/
+.pytest_cache/
+.venv/
+*_test.py
+test_pdf.py
+*.pyc
+__pycache__/
+*.pdf

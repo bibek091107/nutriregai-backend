@@ -1,0 +1,49 @@
+{
+  "document_id": "fssai_4efd2c3d4a7dc596594c",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__13th_September_2022__-_6328012db7fa8Gazette_N.pdf",
+  "title": "Food Products Standards and Food Additives Gazette Amendment Notification (13th September 2022) - 6328012db7fa8Gazette_Notification_FSS_19_09_2022.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "13th September 2022",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/food-products-standards/6328012db7fa8Gazette_Notification_FSS_19_09_2022.pdf",
+  "source_sha256": "17e0fa55f7eec41b1fe2f967f9e6e8afd6c8db909eb9b06d9e218cc38a12b0c4",
+  "file_size": 1255177,
+  "page_count": 8,
+  "extracted_at": "2026-09-28T21:58:35.923388+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 2,
+  "pages_needing_ocr": 6,
+  "ocr_reason_counts": {
+    "broken_devanagari": 6
+  },
+  "section_count": 2,
+  "chunks_with_section": 9,
+  "chunk_count": 10,
+  "chunk_token_counts": [
+    85,
+    1204,
+    1200,
+    1211,
+    1222,
+    1221,
+    1213,
+    1208,
+    1222,
+    960
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.209,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_4efd2c3d4a7dc596594c.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_4efd2c3d4a7dc596594c.jsonl"
+  }
+}

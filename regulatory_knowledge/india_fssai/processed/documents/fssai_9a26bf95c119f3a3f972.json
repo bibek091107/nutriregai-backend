@@ -1,0 +1,39 @@
+{
+  "document_id": "fssai_9a26bf95c119f3a3f972",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Compendium_of_Food_Products_Standards_and_Food_Additives_-_Chapter_2.13__Radiation_processing_of_food.pdf",
+  "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.13 (Radiation processing of food)",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "Current Compendium",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/compendium/food-products-standards/Chapter%202_13_Radiation_processing_of_food.pdf",
+  "source_sha256": "fec2ea6b9afb21e3d5bbeaf05ce9d52e367256b1a4b3558e9d56d2d2f423252c",
+  "file_size": 334703,
+  "page_count": 5,
+  "extracted_at": "2026-09-28T21:59:15.661453+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 5,
+  "pages_needing_ocr": 0,
+  "ocr_reason_counts": {},
+  "section_count": 1,
+  "chunks_with_section": 2,
+  "chunk_count": 2,
+  "chunk_token_counts": [
+    1200,
+    332
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.06,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_9a26bf95c119f3a3f972.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_9a26bf95c119f3a3f972.jsonl"
+  }
+}

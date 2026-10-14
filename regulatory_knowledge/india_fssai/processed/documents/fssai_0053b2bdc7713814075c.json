@@ -1,0 +1,47 @@
+{
+  "document_id": "fssai_0053b2bdc7713814075c",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Labelling_and_Display_Gazette_Amendment_Notification__10th_September_2021__-_Gazette_Notification_Oil_Sweetner_16_09_202.pdf",
+  "title": "Labelling and Display Gazette Amendment Notification (10th September 2021) - Gazette_Notification_Oil_Sweetner_16_09_2021.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Labelling and Display",
+  "version": "Current",
+  "effective_date": "10th September 2021",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/labelling-display/Gazette_Notification_Oil_Sweetner_16_09_2021.pdf",
+  "source_sha256": "2a2980345113dd05236eb7bd4ffd008125c5a7ca5a42860ded0a8c4e52bf9046",
+  "file_size": 1106552,
+  "page_count": 7,
+  "extracted_at": "2026-09-28T21:59:09.147882+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 1,
+  "pages_needing_ocr": 6,
+  "ocr_reason_counts": {
+    "broken_devanagari": 6
+  },
+  "section_count": 2,
+  "chunks_with_section": 7,
+  "chunk_count": 8,
+  "chunk_token_counts": [
+    75,
+    1232,
+    1208,
+    1211,
+    1203,
+    1207,
+    1209,
+    172
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.173,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_0053b2bdc7713814075c.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_0053b2bdc7713814075c.jsonl"
+  }
+}

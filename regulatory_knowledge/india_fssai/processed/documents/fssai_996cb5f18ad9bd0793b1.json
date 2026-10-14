@@ -1,0 +1,47 @@
+{
+  "document_id": "fssai_996cb5f18ad9bd0793b1",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Contaminants__Toxins_and_Residues_Gazette_Amendment_Notification__18th_January_2017__-_Gazette_Notificaton_Histamine_Lev.pdf",
+  "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (18th January 2017) - Gazette_Notificaton_Histamine_Level_25_01_2017.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Contaminants, Toxins and Residues",
+  "version": "Current",
+  "effective_date": "18th January 2017",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/contaminants-toxins/Gazette_Notificaton_Histamine_Level_25_01_2017.pdf",
+  "source_sha256": "6e226ced185a0d72203b791788806c1b03aaf2d62478a506f82456ef303fff69",
+  "file_size": 1211503,
+  "page_count": 13,
+  "extracted_at": "2026-09-28T21:58:26.715481+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 4,
+  "pages_needing_ocr": 9,
+  "ocr_reason_counts": {
+    "broken_devanagari": 9
+  },
+  "section_count": 2,
+  "chunks_with_section": 7,
+  "chunk_count": 8,
+  "chunk_token_counts": [
+    35,
+    1207,
+    1208,
+    1206,
+    1212,
+    1215,
+    1204,
+    855
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.167,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_996cb5f18ad9bd0793b1.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_996cb5f18ad9bd0793b1.jsonl"
+  }
+}

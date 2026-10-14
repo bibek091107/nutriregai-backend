@@ -1,0 +1,22 @@
+# NutriReg AI backend — regulatory document preprocessing and the local API
+#
+# Lightweight by design: no LangChain / LlamaIndex / Celery / Kafka /
+# Elasticsearch, and no LLM or embedding client. Retrieval over the statutory
+# corpus uses the PostgreSQL full-text index that ships with the schema.
+#
+# --- document preprocessing -------------------------------------------------
+PyMuPDF==1.28.2
+pydantic==2.13.5
+python-dotenv==1.2.3
+
+# --- API service ------------------------------------------------------------
+# The API is plain FastAPI over asyncpg. Cookie sessions are stored in
+# Postgres, so no Redis or external session store is required.
+fastapi==0.121.2
+uvicorn[standard]==0.40.0
+asyncpg==0.31.0
+# Multipart parsing for the document-vault upload endpoint.
+python-multipart==0.0.20
+# PDF audit report generation
+reportlab==5.0.1
+

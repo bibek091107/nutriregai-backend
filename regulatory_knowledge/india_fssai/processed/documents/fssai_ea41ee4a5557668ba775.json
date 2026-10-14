@@ -1,0 +1,51 @@
+{
+  "document_id": "fssai_ea41ee4a5557668ba775",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__3rd_November_2021__-_6188bd7ded736Gazette_Not.pdf",
+  "title": "Food Products Standards and Food Additives Gazette Amendment Notification (3rd November 2021) - 6188bd7ded736Gazette_Notification_Oats_Tolerance_08_11_2021.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "3rd November 2021",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/food-products-standards/6188bd7ded736Gazette_Notification_Oats_Tolerance_08_11_2021.pdf",
+  "source_sha256": "3d17b3810b3747fa02bc167421b3b3c37bbcdf1b59a58e8968c1807d8ba2257f",
+  "file_size": 1710703,
+  "page_count": 10,
+  "extracted_at": "2026-09-28T21:58:52.688411+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 2,
+  "pages_needing_ocr": 8,
+  "ocr_reason_counts": {
+    "broken_devanagari": 8
+  },
+  "section_count": 3,
+  "chunks_with_section": 11,
+  "chunk_count": 12,
+  "chunk_token_counts": [
+    75,
+    1221,
+    1239,
+    1204,
+    1215,
+    1222,
+    1207,
+    1214,
+    306,
+    1208,
+    1206,
+    224
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.223,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_ea41ee4a5557668ba775.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_ea41ee4a5557668ba775.jsonl"
+  }
+}

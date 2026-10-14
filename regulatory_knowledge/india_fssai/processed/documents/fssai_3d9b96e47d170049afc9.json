@@ -1,0 +1,72 @@
+{
+  "document_id": "fssai_3d9b96e47d170049afc9",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Food_Safety_and_Standards__Fortification_of_Food__Regulation__2018.pdf",
+  "title": "Food Safety and Standards (Fortification of Food) Regulation, 2018",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "General Regulatory Framework",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/Gazette_Notification_Food_Fortification_10_08_2018.pdf",
+  "source_sha256": "4feee10c9b4ecfaeaec48ab5562a52ed0f1e2ed1db32597eba4051436e539341",
+  "file_size": 2119881,
+  "page_count": 13,
+  "extracted_at": "2026-09-28T21:59:52.929176+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 5,
+  "pages_needing_ocr": 8,
+  "ocr_reason_counts": {
+    "broken_devanagari": 8,
+    "mojibake": 6
+  },
+  "section_count": 12,
+  "chunks_with_section": 21,
+  "chunk_count": 22,
+  "chunk_token_counts": [
+    35,
+    1236,
+    1254,
+    1208,
+    1214,
+    1203,
+    1254,
+    1203,
+    1225,
+    1201,
+    1201,
+    1195,
+    627,
+    418,
+    857,
+    159,
+    555,
+    272,
+    440,
+    442,
+    431,
+    345
+  ],
+  "alias_claimants": [
+    {
+      "document_id": "fssai_0e776795279028001e0a",
+      "title": "Food Safety and Standards (Fortification of Food) Regulation, 2018",
+      "source_type": "REGULATION",
+      "category": "General Regulatory Framework",
+      "document_url": "https://www.fssai.gov.in/docs/standards/product-standard/Food_Fortification_Regulations.pdf",
+      "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+      "effective_date": "2011"
+    }
+  ],
+  "has_manifest_collision": true,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.376,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_3d9b96e47d170049afc9.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_3d9b96e47d170049afc9.jsonl"
+  }
+}

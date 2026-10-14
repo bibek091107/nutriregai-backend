@@ -1,0 +1,39 @@
+{
+  "document_id": "fssai_8616153500e74848204e",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Transaction_of_Business_at_its_Meetings_Regulations__2010.pdf",
+  "title": "Transaction of Business at its Meetings Regulations, 2010",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "General Regulatory Framework",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/Notification_of_Regulations_on_Transaction_of_Business.pdf",
+  "source_sha256": "056a9f2f700093fa1efc6b335a15618f669b2ab10dd0878a9582bc26f9014d9c",
+  "file_size": 946277,
+  "page_count": 18,
+  "extracted_at": "2026-09-28T22:00:12.935365+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 0,
+  "pages_needing_ocr": 18,
+  "ocr_reason_counts": {
+    "low_text": 18,
+    "image_dominated": 18
+  },
+  "section_count": 0,
+  "chunks_with_section": 0,
+  "chunk_count": 0,
+  "chunk_token_counts": [],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.666,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_8616153500e74848204e.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_8616153500e74848204e.jsonl"
+  }
+}

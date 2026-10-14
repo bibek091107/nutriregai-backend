@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FSSAI - Food Safety and Standards Authority of India</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    
+  <script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "08bfc977ed841001082cc249c30196ae0932e67184dd413f32217e7301935828217fcd6368ea87d371116bbdc8bf29745606fa7b5eebb162935a6f630c70bd23e1397a6e48936ae16dc9a2483619fb112aaecfd6eacdc3f659512d7bce7af995fadba608226c69a789e7815157db79651a5f0b86aba5d21108cb749405794dbf7f712f72bfeb0d72ab19da7fb5389982c1367bad2ed9db1b825ac14112156a6ea1409e3ea474956cbb90713ad70d71f0bd7244cdb7d354b19e524ac43e102588237ab9700ddd6c50e29b757dab5253e3993f82d31888ab3e5765c844764102186fde4332a98a4de8fbf1a344f705da628441990a07caa9320fb3fb11e723b9dd84da3ff9de06a9c538ddfe3452923853da64bb3b63d71ea3";
+//]]>
+</script><script type="text/javascript" src="/TSbd/08e83d84d8ab2000a4dfaa7c262719e96a7eb1d5401f6a9813ed53804fcdd23ce1dcee3d79e3c893?type=2"></script><script type="module" crossorigin src="/assets/index-DotI_G1y.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-DqzixIO1.css">
+</head>
+<body>
+<div id="root"></div>
+    
+<script type="text/javascript" src="https://www.ebhashasetu.com/webzaar/v3/widget.js" id="linguistTranslateWidget"></script>
+<script type="text/javascript">
+        var translator = new linguistTranslator.TranslatorWidget({
+            userLanguage: 'hi',
+            rememberTranslationState: true,
+            translatorConstructor: class EbsTranslator {
+                translate = (text, from, to) => {
+                    return fetch('https://mapps.ebslab.in/v2/fssai', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({
+                            q: text,
+                            source: from,
+                            target: to,
+                            format: 'text',
+                            clientid: 'fssai',
+                            // eslint-disable-next-line camelcase
+                            api_key: 'fssai',
+                            cur_url: window.location.href
+                        }),
+                    })
+                        .then((r) => r.json())
+                        .then((rsp) => {
+                            if (
+                                typeof rsp === 'object' &&
+                                rsp !== null &&
+                                typeof rsp.translatedText === 'string'
+                            ) {
+                                return rsp.translatedText;
+                            }
+
+                        throw new TypeError('Unexpected response');
+                        })
+                };
+
+                translateBatch = (texts, from, to) =>
+                Promise.all(texts.map((text) => this.translate(text, from, to)));
+
+                getLengthLimit = () => 5000;
+                getRequestsTimeout = () => 300;
+                checkLimitExceeding = (text) => {
+                    const textLength = !Array.isArray(text)
+                        ? text.length
+                        : text.reduce((len, text) => len + text.length, 0);
+
+                    return textLength - this.getLengthLimit();
+                };
+
+                static isSupportedAutoFrom = () => false;
+
+                // prettier-ignore
+                static getSupportedLanguages = () => [
+                "hi", "te", "gu", "mr", "pa", "bn"];
+            }
+        });
+        translator.enable();
+    </script>
+  </body>
+</html>

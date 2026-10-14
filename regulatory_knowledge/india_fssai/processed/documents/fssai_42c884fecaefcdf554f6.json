@@ -1,0 +1,44 @@
+{
+  "document_id": "fssai_42c884fecaefcdf554f6",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__25th_October_2016__-_Gazette_Notification_Car.pdf",
+  "title": "Food Products Standards and Food Additives Gazette Amendment Notification (25th October 2016) - Gazette_Notification_Carbonated_Fruit_Drink_01_11_2016.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "25th October 2016",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/food-products-standards/Gazette_Notification_Carbonated_Fruit_Drink_01_11_2016.pdf",
+  "source_sha256": "b79dfe2353d2296b3cfa9b0e6e59aedd7c9f6b1ba0fde673937e016c0dd37776",
+  "file_size": 1001363,
+  "page_count": 4,
+  "extracted_at": "2026-09-28T21:58:46.461780+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 1,
+  "pages_needing_ocr": 3,
+  "ocr_reason_counts": {
+    "broken_devanagari": 3
+  },
+  "section_count": 2,
+  "chunks_with_section": 4,
+  "chunk_count": 5,
+  "chunk_token_counts": [
+    35,
+    1223,
+    1213,
+    1211,
+    187
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.082,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_42c884fecaefcdf554f6.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_42c884fecaefcdf554f6.jsonl"
+  }
+}

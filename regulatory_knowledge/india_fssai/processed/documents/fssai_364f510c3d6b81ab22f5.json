@@ -1,0 +1,39 @@
+{
+  "document_id": "fssai_364f510c3d6b81ab22f5",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Compendium_of_Food_Products_Standards_and_Food_Additives_-_Chapter_1__General.pdf",
+  "title": "Compendium of Food Products Standards and Food Additives - Chapter 1 (General)",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "Current Compendium",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/compendium/food-products-standards/1_ Chapter 1 (General).pdf",
+  "source_sha256": "3ca0ec5a7b89df1148c78c296df2924b9a5a06152e50340ca1e39c759bae4bda",
+  "file_size": 225631,
+  "page_count": 3,
+  "extracted_at": "2026-09-28T21:59:15.214585+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 3,
+  "pages_needing_ocr": 0,
+  "ocr_reason_counts": {},
+  "section_count": 2,
+  "chunks_with_section": 1,
+  "chunk_count": 2,
+  "chunk_token_counts": [
+    15,
+    1087
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.046,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_364f510c3d6b81ab22f5.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_364f510c3d6b81ab22f5.jsonl"
+  }
+}

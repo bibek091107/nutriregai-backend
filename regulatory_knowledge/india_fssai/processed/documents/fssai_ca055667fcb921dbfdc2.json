@@ -1,0 +1,47 @@
+{
+  "document_id": "fssai_ca055667fcb921dbfdc2",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__29th_January_2019__-_Gazette_Notification_Dri.pdf",
+  "title": "Food Products Standards and Food Additives Gazette Amendment Notification (29th January 2019) - Gazette_Notification_Drinking_Water_05_02_2019.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "29th January 2019",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/food-products-standards/Gazette_Notification_Drinking_Water_05_02_2019.pdf",
+  "source_sha256": "0b3391b2626d8e28c88e3e353c390814647873f3c64177f7a9593c33140b998e",
+  "file_size": 350306,
+  "page_count": 6,
+  "extracted_at": "2026-09-28T21:58:50.339965+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 2,
+  "pages_needing_ocr": 4,
+  "ocr_reason_counts": {
+    "broken_devanagari": 4,
+    "mojibake": 1
+  },
+  "section_count": 2,
+  "chunks_with_section": 6,
+  "chunk_count": 7,
+  "chunk_token_counts": [
+    35,
+    1244,
+    1224,
+    1244,
+    1226,
+    1203,
+    939
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.14,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_ca055667fcb921dbfdc2.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_ca055667fcb921dbfdc2.jsonl"
+  }
+}

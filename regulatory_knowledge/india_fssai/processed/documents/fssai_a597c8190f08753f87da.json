@@ -1,0 +1,49 @@
+{
+  "document_id": "fssai_a597c8190f08753f87da",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Food_Safety_and_Standards__Organic_Food__Regulation__2017.pdf",
+  "title": "Food Safety and Standards (Organic Food) Regulation, 2017",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "General Regulatory Framework",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/Gazette_Notification_Organic_Food_04_01_2017.pdf",
+  "source_sha256": "4103de0420068e1ddc07f50f4eba6a7b3bc018d8c9a279e667f72ba470b1d142",
+  "file_size": 1749542,
+  "page_count": 5,
+  "extracted_at": "2026-09-28T22:00:04.344478+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 1,
+  "pages_needing_ocr": 4,
+  "ocr_reason_counts": {
+    "broken_devanagari": 4,
+    "mojibake": 2
+  },
+  "section_count": 5,
+  "chunks_with_section": 8,
+  "chunk_count": 9,
+  "chunk_token_counts": [
+    35,
+    1204,
+    1207,
+    1218,
+    1200,
+    450,
+    615,
+    649,
+    328
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.155,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_a597c8190f08753f87da.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_a597c8190f08753f87da.jsonl"
+  }
+}

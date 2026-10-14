@@ -1,0 +1,39 @@
+{
+  "document_id": "fssai_5d120dedcca7b6369c5c",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Food_Safety_and_Standards__Licensing_and_Registration_of_Food_Businesses__Regulation__2011__Hindi.pdf",
+  "title": "Food Safety and Standards (Licensing and Registration of Food Businesses) Regulation, 2011 (Hindi)",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "General Regulatory Framework",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/FSS_Licensing_Registration_Regulation_Hindi.pdf",
+  "source_sha256": "1edf638ce9128b7a4f19f3f9ce22c5ca5b568cfd10d21ab684890bc086e61f44",
+  "file_size": 4633809,
+  "page_count": 64,
+  "extracted_at": "2026-09-28T22:00:04.186160+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 0,
+  "pages_needing_ocr": 64,
+  "ocr_reason_counts": {
+    "low_text": 64,
+    "image_dominated": 64
+  },
+  "section_count": 0,
+  "chunks_with_section": 0,
+  "chunk_count": 0,
+  "chunk_token_counts": [],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 2.637,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_5d120dedcca7b6369c5c.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_5d120dedcca7b6369c5c.jsonl"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "fssai_d2b6e70140f0212f5457",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Labelling_and_Display_Gazette_Amendment_Notification__30th_August_2022__-_Gazette_Notification_Plastic_01_09_2022.pdf.pdf",
+  "title": "Labelling and Display Gazette Amendment Notification (30th August 2022) - Gazette_Notification_Plastic_01_09_2022.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Labelling and Display",
+  "version": "Current",
+  "effective_date": "30th August 2022",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/packaging/Gazette_Notification_Plastic_01_09_2022.pdf",
+  "source_sha256": "6fdca496e8d7fac03b4e08ec0e9c246a61514faa3a934757cb28d3b641add318",
+  "file_size": 1035889,
+  "page_count": 3,
+  "extracted_at": "2026-09-28T21:59:09.712400+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 0,
+  "pages_needing_ocr": 3,
+  "ocr_reason_counts": {
+    "broken_devanagari": 3
+  },
+  "section_count": 2,
+  "chunks_with_section": 2,
+  "chunk_count": 3,
+  "chunk_token_counts": [
+    85,
+    1227,
+    1063
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.081,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_d2b6e70140f0212f5457.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_d2b6e70140f0212f5457.jsonl"
+  }
+}

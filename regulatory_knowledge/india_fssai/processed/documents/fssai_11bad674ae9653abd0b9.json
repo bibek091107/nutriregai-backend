@@ -1,0 +1,44 @@
+{
+  "document_id": "fssai_11bad674ae9653abd0b9",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__4th_November_2015__-_Gazette_Notification_Glu.pdf",
+  "title": "Food Products Standards and Food Additives Gazette Amendment Notification (4th November 2015) - Gazette_Notification_Glucose_OXL_enzymes.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "4th November 2015",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/food-products-standards/Gazette_Notification_Glucose_OXL_enzymes.pdf",
+  "source_sha256": "d283cef661c6dba509a2f29d98d5cc64ca6f9542728910cbd6858abcb8230122",
+  "file_size": 86882,
+  "page_count": 4,
+  "extracted_at": "2026-09-28T21:58:54.074457+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 1,
+  "pages_needing_ocr": 3,
+  "ocr_reason_counts": {
+    "mojibake": 2,
+    "broken_devanagari": 3
+  },
+  "section_count": 2,
+  "chunks_with_section": 3,
+  "chunk_count": 4,
+  "chunk_token_counts": [
+    35,
+    1201,
+    1209,
+    658
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.064,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_11bad674ae9653abd0b9.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_11bad674ae9653abd0b9.jsonl"
+  }
+}

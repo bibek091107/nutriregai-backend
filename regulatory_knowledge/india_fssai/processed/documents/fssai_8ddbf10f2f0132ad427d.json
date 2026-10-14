@@ -1,0 +1,44 @@
+{
+  "document_id": "fssai_8ddbf10f2f0132ad427d",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__29th_December_2016__-_Gazette_Notification_Ir.pdf",
+  "title": "Food Products Standards and Food Additives Gazette Amendment Notification (29th December 2016) - Gazette_Notification_Iron_Filling_Tea_05_01_2017.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "29th December 2016",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/food-products-standards/Gazette_Notification_Iron_Filling_Tea_05_01_2017.pdf",
+  "source_sha256": "a0376c5c5c9ff38a192bf24bba547c6b5e25e25bfeee55589506729d3dc2af94",
+  "file_size": 1429266,
+  "page_count": 5,
+  "extracted_at": "2026-09-28T21:58:49.156194+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 3,
+  "pages_needing_ocr": 2,
+  "ocr_reason_counts": {
+    "broken_devanagari": 2
+  },
+  "section_count": 2,
+  "chunks_with_section": 4,
+  "chunk_count": 5,
+  "chunk_token_counts": [
+    156,
+    1209,
+    1239,
+    1209,
+    403
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.094,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_8ddbf10f2f0132ad427d.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_8ddbf10f2f0132ad427d.jsonl"
+  }
+}

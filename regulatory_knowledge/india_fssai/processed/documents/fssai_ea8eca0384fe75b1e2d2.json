@@ -1,0 +1,39 @@
+{
+  "document_id": "fssai_ea8eca0384fe75b1e2d2",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Procedure_for_Transaction_of_Business_of_the_Central_Advisory_Committee_Regulations__2010.pdf",
+  "title": "Procedure for Transaction of Business of the Central Advisory Committee Regulations, 2010",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "General Regulatory Framework",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/Notification_of_Regulations_on_Procedure_Transaction_of_Business.pdf",
+  "source_sha256": "89a0187f56427f0a58a44910af9cae591ad619072b2d9e669b7a471b78675bbc",
+  "file_size": 983600,
+  "page_count": 16,
+  "extracted_at": "2026-09-28T22:00:08.433418+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 0,
+  "pages_needing_ocr": 16,
+  "ocr_reason_counts": {
+    "low_text": 16,
+    "image_dominated": 16
+  },
+  "section_count": 0,
+  "chunks_with_section": 0,
+  "chunk_count": 0,
+  "chunk_token_counts": [],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.647,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_ea8eca0384fe75b1e2d2.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_ea8eca0384fe75b1e2d2.jsonl"
+  }
+}

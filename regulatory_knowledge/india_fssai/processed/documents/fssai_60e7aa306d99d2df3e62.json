@@ -1,0 +1,53 @@
+{
+  "document_id": "fssai_60e7aa306d99d2df3e62",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__13th_February_2017__-_Gazette_Notification_Am.pdf",
+  "title": "Food Products Standards and Food Additives Gazette Amendment Notification (13th February 2017) - Gazette_Notification_Amendment_Micro_Fish_20_02_2017.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "13th February 2017",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/food-products-standards/Gazette_Notification_Amendment_Micro_Fish_20_02_2017.pdf",
+  "source_sha256": "5bac335cdaee142b574291931fd08f3c34d160ab51aaff447d3bed2abd5f1182",
+  "file_size": 988072,
+  "page_count": 20,
+  "extracted_at": "2026-09-28T21:58:34.621330+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 9,
+  "pages_needing_ocr": 11,
+  "ocr_reason_counts": {
+    "broken_devanagari": 11
+  },
+  "section_count": 2,
+  "chunks_with_section": 13,
+  "chunk_count": 14,
+  "chunk_token_counts": [
+    197,
+    1240,
+    1204,
+    1204,
+    1205,
+    1243,
+    1231,
+    1200,
+    1202,
+    1205,
+    1200,
+    1207,
+    1206,
+    1160
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.355,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_60e7aa306d99d2df3e62.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_60e7aa306d99d2df3e62.jsonl"
+  }
+}

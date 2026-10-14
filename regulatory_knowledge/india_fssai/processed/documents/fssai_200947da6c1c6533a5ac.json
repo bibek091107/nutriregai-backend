@@ -1,0 +1,43 @@
+{
+  "document_id": "fssai_200947da6c1c6533a5ac",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Compendium_of_Food_Products_Standards_and_Food_Additives_-_Chapter_2.8__Sweetening_agents_including_Honey.pdf",
+  "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.8 (Sweetening agents including Honey)",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "Current Compendium",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/compendium/food-products-standards/Chapter%202_8%20(Sweetening%20agents%20including%20Honey).pdf",
+  "source_sha256": "be22ccb88678427d978dd63b5062c47292ac3ca5d0df6f3246f8ee09536b2d99",
+  "file_size": 514849,
+  "page_count": 16,
+  "extracted_at": "2026-09-28T21:59:21.530242+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 16,
+  "pages_needing_ocr": 0,
+  "ocr_reason_counts": {},
+  "section_count": 3,
+  "chunks_with_section": 6,
+  "chunk_count": 6,
+  "chunk_token_counts": [
+    1107,
+    1207,
+    1201,
+    1204,
+    783,
+    671
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.208,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_200947da6c1c6533a5ac.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_200947da6c1c6533a5ac.jsonl"
+  }
+}

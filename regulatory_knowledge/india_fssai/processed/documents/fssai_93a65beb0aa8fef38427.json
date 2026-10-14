@@ -1,0 +1,44 @@
+{
+  "document_id": "fssai_93a65beb0aa8fef38427",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Food_Safety_and_Standards__Vegan_Foods__Regulations__2022.pdf",
+  "title": "Food Safety and Standards (Vegan Foods) Regulations, 2022",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "General Regulatory Framework",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/62ac3f9dba33cGazette_Notification_Vegan_Food_17_06_2022.pdf",
+  "source_sha256": "b145afd55a6742604bbfed035d42b56420a50c8de82ec86558995827b51ac513",
+  "file_size": 1311205,
+  "page_count": 4,
+  "extracted_at": "2026-09-28T22:00:07.664319+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 1,
+  "pages_needing_ocr": 3,
+  "ocr_reason_counts": {
+    "broken_devanagari": 3
+  },
+  "section_count": 2,
+  "chunks_with_section": 4,
+  "chunk_count": 5,
+  "chunk_token_counts": [
+    113,
+    1223,
+    1202,
+    1201,
+    912
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.128,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_93a65beb0aa8fef38427.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_93a65beb0aa8fef38427.jsonl"
+  }
+}

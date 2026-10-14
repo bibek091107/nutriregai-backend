@@ -1,0 +1,43 @@
+{
+  "document_id": "fssai_c55870d2409ed8ec1fac",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Contaminants__Toxins_and_Residues_Gazette_Amendment_Notification__4th_November_2015__-_Gazette_Notification_Chromium_Gel.pdf",
+  "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (4th November 2015) - Gazette_Notification_Chromium_Gelatin.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Contaminants, Toxins and Residues",
+  "version": "Current",
+  "effective_date": "4th November 2015",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/contaminants-toxins/Gazette_Notification_Chromium_Gelatin.pdf",
+  "source_sha256": "839f3a0a67d5f93cdb1021520cd56525961c552f13f1a63208d6edb4e2cbe75b",
+  "file_size": 178834,
+  "page_count": 3,
+  "extracted_at": "2026-09-28T21:58:28.531770+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 1,
+  "pages_needing_ocr": 2,
+  "ocr_reason_counts": {
+    "broken_devanagari": 2,
+    "mojibake": 1
+  },
+  "section_count": 2,
+  "chunks_with_section": 2,
+  "chunk_count": 3,
+  "chunk_token_counts": [
+    35,
+    1248,
+    1072
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.064,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_c55870d2409ed8ec1fac.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_c55870d2409ed8ec1fac.jsonl"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "fssai_58799e9bb058829e5c21",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__24th_October_2017__-_Gazette_Notification_Sta.pdf",
+  "title": "Food Products Standards and Food Additives Gazette Amendment Notification (24th October 2017) - Gazette_Notification_Standards_Tapioca_Sago_03_11_2017.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "24th October 2017",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/food-products-standards/Gazette_Notification_Standards_Tapioca_Sago_03_11_2017.pdf",
+  "source_sha256": "cf330b03318e531c15f0b14668f60a9e53cff13ce802d7fa20daed5e342d2323",
+  "file_size": 2016712,
+  "page_count": 6,
+  "extracted_at": "2026-09-28T21:58:46.378024+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 2,
+  "pages_needing_ocr": 4,
+  "ocr_reason_counts": {
+    "broken_devanagari": 4
+  },
+  "section_count": 2,
+  "chunks_with_section": 5,
+  "chunk_count": 6,
+  "chunk_token_counts": [
+    15,
+    1273,
+    1209,
+    1230,
+    1215,
+    1084
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.144,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_58799e9bb058829e5c21.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_58799e9bb058829e5c21.jsonl"
+  }
+}

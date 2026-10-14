@@ -1,0 +1,51 @@
+{
+  "document_id": "fssai_b15abaae3a996d991c9d",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Financial_Regulations__2023.pdf",
+  "title": "Financial Regulations, 2023",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "General Regulatory Framework",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/order_regulation.pdf",
+  "source_sha256": "6434084196144d8e09000e8e21031e64fea0ab5cd549d88ec95b3222e8dc482d",
+  "file_size": 539974,
+  "page_count": 6,
+  "extracted_at": "2026-09-28T21:59:23.628265+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 1,
+  "pages_needing_ocr": 5,
+  "ocr_reason_counts": {
+    "broken_devanagari": 5,
+    "mojibake": 1
+  },
+  "section_count": 7,
+  "chunks_with_section": 10,
+  "chunk_count": 11,
+  "chunk_token_counts": [
+    84,
+    1217,
+    1251,
+    1208,
+    1201,
+    891,
+    413,
+    481,
+    602,
+    254,
+    404
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.125,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_b15abaae3a996d991c9d.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_b15abaae3a996d991c9d.jsonl"
+  }
+}

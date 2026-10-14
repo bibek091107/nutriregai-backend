@@ -1,0 +1,45 @@
+{
+  "document_id": "fssai_1f88c2689b839988921a",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Contaminants__Toxins_and_Residues_Gazette_Amendment_Notification__4th_January_2016__-_Gazette_Notification_Biotoxins_Lim.pdf",
+  "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (4th January 2016) - Gazette_Notification_Biotoxins_Limits.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Contaminants, Toxins and Residues",
+  "version": "Current",
+  "effective_date": "4th January 2016",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/contaminants-toxins/Gazette_Notification_Biotoxins_Limits.pdf",
+  "source_sha256": "93aec9bde66ce1ce4a0ed508e8c8ee470b7eccb6aa08e27252bb7231dfdcc7fe",
+  "file_size": 218481,
+  "page_count": 4,
+  "extracted_at": "2026-09-28T21:58:28.466908+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 1,
+  "pages_needing_ocr": 3,
+  "ocr_reason_counts": {
+    "broken_devanagari": 3,
+    "mojibake": 1
+  },
+  "section_count": 2,
+  "chunks_with_section": 4,
+  "chunk_count": 5,
+  "chunk_token_counts": [
+    35,
+    1207,
+    1211,
+    1221,
+    486
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.091,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_1f88c2689b839988921a.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_1f88c2689b839988921a.jsonl"
+  }
+}

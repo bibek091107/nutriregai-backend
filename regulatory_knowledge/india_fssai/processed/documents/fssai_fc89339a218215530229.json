@@ -1,0 +1,39 @@
+{
+  "document_id": "fssai_fc89339a218215530229",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Food_Safety_and_Standards__Licensing_and_Registration_of_Food_Businesses__Regulation__2011__Corrigenda.pdf",
+  "title": "Food Safety and Standards (Licensing and Registration of Food Businesses) Regulation, 2011 (Corrigenda)",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "General Regulatory Framework",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/LicReg.pdf",
+  "source_sha256": "fd1be448df3c6dde01e640fa9fa66f3f9038531350d988568c58234ca9d5fd2d",
+  "file_size": 471159,
+  "page_count": 1,
+  "extracted_at": "2026-09-28T22:00:01.544579+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 0,
+  "pages_needing_ocr": 1,
+  "ocr_reason_counts": {
+    "low_text": 1,
+    "image_dominated": 1
+  },
+  "section_count": 0,
+  "chunks_with_section": 0,
+  "chunk_count": 0,
+  "chunk_token_counts": [],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.001,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_fc89339a218215530229.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_fc89339a218215530229.jsonl"
+  }
+}

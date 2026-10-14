@@ -1,0 +1,39 @@
+{
+  "document_id": "fssai_765026db437e5273ca59",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Food_Safety_and_Standards__Food_Products_Standards_and_Food_Additives__Regulation__2011__Hindi.pdf",
+  "title": "Food Safety and Standards (Food Products Standards and Food Additives) Regulation, 2011 (Hindi)",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/Food_safety_and_standards_Food_product_standards_and_Food_Additives_regulation_2011_Hindi.pdf",
+  "source_sha256": "04ccc309b9034c50a2fcbd4867852b47b3933b72086591b4da5bd68f7639e645",
+  "file_size": 17848443,
+  "page_count": 286,
+  "extracted_at": "2026-09-28T21:59:42.261906+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 0,
+  "pages_needing_ocr": 286,
+  "ocr_reason_counts": {
+    "low_text": 286,
+    "image_dominated": 286
+  },
+  "section_count": 0,
+  "chunks_with_section": 0,
+  "chunk_count": 0,
+  "chunk_token_counts": [],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 8.982,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_765026db437e5273ca59.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_765026db437e5273ca59.jsonl"
+  }
+}

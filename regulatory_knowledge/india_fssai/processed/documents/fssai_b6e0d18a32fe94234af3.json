@@ -1,0 +1,48 @@
+{
+  "document_id": "fssai_b6e0d18a32fe94234af3",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Contaminants__Toxins_and_Residues_Gazette_Amendment_Notification__3rd_May_2016__-_Gazette_Notification_Heavy_Metals_11_0.pdf",
+  "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (3rd May 2016) - Gazette_Notification_Heavy_Metals_11_05_2016.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Contaminants, Toxins and Residues",
+  "version": "Current",
+  "effective_date": "3rd May 2016",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/contaminants-toxins/Gazette_Notification_Heavy_Metals_11_05_2016.pdf",
+  "source_sha256": "2e7b1341d250181966c157956b4a46849d023c71aa315f1003386802f4a8684f",
+  "file_size": 215053,
+  "page_count": 9,
+  "extracted_at": "2026-09-28T21:58:28.374653+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 4,
+  "pages_needing_ocr": 5,
+  "ocr_reason_counts": {
+    "broken_devanagari": 5,
+    "mojibake": 4
+  },
+  "section_count": 2,
+  "chunks_with_section": 7,
+  "chunk_count": 8,
+  "chunk_token_counts": [
+    35,
+    1222,
+    1249,
+    1207,
+    1223,
+    1204,
+    1204,
+    1172
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.173,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_b6e0d18a32fe94234af3.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_b6e0d18a32fe94234af3.jsonl"
+  }
+}

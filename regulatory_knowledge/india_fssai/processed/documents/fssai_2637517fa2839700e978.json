@@ -1,0 +1,43 @@
+{
+  "document_id": "fssai_2637517fa2839700e978",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Food_Safety_and_Standards__Ayurveda_Aahara__Regulations__2022__Order__25_Jul_2025.pdf",
+  "title": "Food Safety and Standards (Ayurveda Aahara) Regulations, 2022 (Order (25 Jul 2025))",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "General Regulatory Framework",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/Order%20dated%2025-07-2025%20enclosing%20Ayurveda%20Aahara.pdf",
+  "source_sha256": "498d6f579357e7bb8e8d7b9f7741db5863f6eea8d29ffd559ff9add7d32d7edc",
+  "file_size": 9881569,
+  "page_count": 172,
+  "extracted_at": "2026-09-28T21:59:27.447314+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 0,
+  "pages_needing_ocr": 172,
+  "ocr_reason_counts": {
+    "broken_devanagari": 2,
+    "mojibake": 1,
+    "low_text": 170,
+    "image_dominated": 170
+  },
+  "section_count": 1,
+  "chunks_with_section": 0,
+  "chunk_count": 1,
+  "chunk_token_counts": [
+    1004
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.133,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_2637517fa2839700e978.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_2637517fa2839700e978.jsonl"
+  }
+}

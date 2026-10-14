@@ -1,0 +1,41 @@
+{
+  "document_id": "fssai_fb6f051687c13505c772",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Food_Safety_and_Standards__Food_Recall_Procedure__Regulation__2017__Guidelines.pdf",
+  "title": "Food Safety and Standards (Food Recall Procedure) Regulation, 2017 (Guidelines)",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "General Regulatory Framework",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/Guidelines_Food_Recall_28_11_2017.pdf",
+  "source_sha256": "6a7e766e3e2414780ae6c67fec98ece4146354967e1d02e8c65ea3bcaf4b7f02",
+  "file_size": 361630,
+  "page_count": 11,
+  "extracted_at": "2026-09-28T21:59:47.592885+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 11,
+  "pages_needing_ocr": 0,
+  "ocr_reason_counts": {},
+  "section_count": 2,
+  "chunks_with_section": 2,
+  "chunk_count": 4,
+  "chunk_token_counts": [
+    1207,
+    1162,
+    1210,
+    628
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.163,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_fb6f051687c13505c772.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_fb6f051687c13505c772.jsonl"
+  }
+}

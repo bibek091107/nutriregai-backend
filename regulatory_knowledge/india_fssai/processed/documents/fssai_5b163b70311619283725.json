@@ -1,0 +1,38 @@
+{
+  "document_id": "fssai_5b163b70311619283725",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Compendium_of_Food_Products_Standards_and_Food_Additives_-_Chapter_2.14__Gluten_free_food.pdf",
+  "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.14 (Gluten free food)",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "Current Compendium",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/compendium/food-products-standards/15_ Chapter 2_14 (Gluten free food).pdf",
+  "source_sha256": "15f42a312906c3b0633e9d682799896d5d2f60a87a0b4299fda1cec3ce2a9133",
+  "file_size": 284036,
+  "page_count": 1,
+  "extracted_at": "2026-09-28T21:59:15.676181+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 1,
+  "pages_needing_ocr": 0,
+  "ocr_reason_counts": {},
+  "section_count": 1,
+  "chunks_with_section": 1,
+  "chunk_count": 1,
+  "chunk_token_counts": [
+    242
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.014,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_5b163b70311619283725.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_5b163b70311619283725.jsonl"
+  }
+}

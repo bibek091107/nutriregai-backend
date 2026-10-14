@@ -1,0 +1,49 @@
+{
+  "document_id": "fssai_699346cd865a0a317bbd",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__30th_October_2019__-_5dc10699f2318Gazette_Not.pdf",
+  "title": "Food Products Standards and Food Additives Gazette Amendment Notification (30th October 2019) - 5dc10699f2318Gazette_Notification_Standards_Coffee_Water_05_11_2019.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "30th October 2019",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/food-products-standards/5dc10699f2318Gazette_Notification_Standards_Coffee_Water_05_11_2019.pdf",
+  "source_sha256": "3d64986610346335a43efb6f3a412ec8f2e1355033c8e84c45fe1b7b5ca23a0c",
+  "file_size": 388310,
+  "page_count": 8,
+  "extracted_at": "2026-09-28T21:58:51.591233+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 3,
+  "pages_needing_ocr": 5,
+  "ocr_reason_counts": {
+    "broken_devanagari": 5,
+    "mojibake": 2
+  },
+  "section_count": 2,
+  "chunks_with_section": 8,
+  "chunk_count": 9,
+  "chunk_token_counts": [
+    35,
+    1240,
+    1208,
+    1207,
+    1225,
+    1235,
+    1206,
+    1217,
+    1097
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.184,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_699346cd865a0a317bbd.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_699346cd865a0a317bbd.jsonl"
+  }
+}

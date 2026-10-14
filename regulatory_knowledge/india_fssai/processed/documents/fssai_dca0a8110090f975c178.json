@@ -1,0 +1,43 @@
+{
+  "document_id": "fssai_dca0a8110090f975c178",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Contaminants__Toxins_and_Residues_Gazette_Amendment_Notification__4th_November_2015__-_Gazette_Notification_Crop_Contami.pdf",
+  "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (4th November 2015) - Gazette_Notification_Crop_Contaminants_Natural_Toxic.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Contaminants, Toxins and Residues",
+  "version": "Current",
+  "effective_date": "4th November 2015",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/contaminants-toxins/Gazette_Notification_Crop_Contaminants_Natural_Toxic.pdf",
+  "source_sha256": "f04847d031248eda95d94fed9ee88d3d01f8a944ea6fd5af60aaa96be74ee867",
+  "file_size": 92179,
+  "page_count": 4,
+  "extracted_at": "2026-09-28T21:58:28.593586+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 1,
+  "pages_needing_ocr": 3,
+  "ocr_reason_counts": {
+    "mojibake": 2,
+    "broken_devanagari": 3
+  },
+  "section_count": 2,
+  "chunks_with_section": 2,
+  "chunk_count": 3,
+  "chunk_token_counts": [
+    35,
+    1200,
+    1141
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.061,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_dca0a8110090f975c178.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_dca0a8110090f975c178.jsonl"
+  }
+}

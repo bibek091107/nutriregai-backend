@@ -1,0 +1,51 @@
+{
+  "document_id": "fssai_7d92d00505802c1b7afa",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Contaminants__Toxins_and_Residues_Gazette_Amendment_Notification__17th_October_2024__-_2_Notification_dt_17_10_2024.pdf.pdf",
+  "title": "Contaminants, Toxins and Residues Gazette Amendment Notification (17th October 2024) - 2_Notification dt 17_10_2024.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Contaminants, Toxins and Residues",
+  "version": "Current",
+  "effective_date": "17th October 2024",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/contaminants-toxins/2_Notification dt 17_10_2024.pdf",
+  "source_sha256": "7f677539c1bd4adbe524e998b7e81d81f712e2d3dd6568282aae21b14ec49dd6",
+  "file_size": 1996352,
+  "page_count": 27,
+  "extracted_at": "2026-09-28T21:58:26.542701+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 5,
+  "pages_needing_ocr": 22,
+  "ocr_reason_counts": {
+    "broken_devanagari": 22
+  },
+  "section_count": 2,
+  "chunks_with_section": 11,
+  "chunk_count": 12,
+  "chunk_token_counts": [
+    77,
+    1213,
+    1214,
+    1203,
+    1202,
+    1201,
+    1206,
+    1204,
+    1203,
+    1203,
+    1200,
+    812
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.271,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_7d92d00505802c1b7afa.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_7d92d00505802c1b7afa.jsonl"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "document_id": "fssai_6e9708b46a5895a61547",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Compendium_of_Food_Products_Standards_and_Food_Additives_-_Chapter_2.12__Proprietary_Food.pdf",
+  "title": "Compendium of Food Products Standards and Food Additives - Chapter 2.12 (Proprietary Food)",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "Current Compendium",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/compendium/food-products-standards/13_ Chapter 2_12 (Proprietary Food).pdf",
+  "source_sha256": "3234ec3f634d5cb5976be8a4cfd63ae75857de30e63919e191d516f9fb592978",
+  "file_size": 185261,
+  "page_count": 2,
+  "extracted_at": "2026-09-28T21:59:15.600333+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 2,
+  "pages_needing_ocr": 0,
+  "ocr_reason_counts": {},
+  "section_count": 2,
+  "chunks_with_section": 2,
+  "chunk_count": 2,
+  "chunk_token_counts": [
+    5,
+    456
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.023,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_6e9708b46a5895a61547.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_6e9708b46a5895a61547.jsonl"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "document_id": "fssai_b2444aee9e8652e19090",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__14th_June_2016__-_Gazette_Notification_Cotton.pdf",
+  "title": "Food Products Standards and Food Additives Gazette Amendment Notification (14th June 2016) - Gazette_Notification_Cotton_Seed_Rice_Bran_Oil_04_07_2016.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "14th June 2016",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/food-products-standards/Gazette_Notification_Cotton_Seed_Rice_Bran_Oil_04_07_2016.pdf",
+  "source_sha256": "9beae8fd73f805e958076112955206bfe5c16a6cb17e48ebdedabeec901b84f3",
+  "file_size": 179859,
+  "page_count": 4,
+  "extracted_at": "2026-09-28T21:58:36.003263+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 2,
+  "pages_needing_ocr": 2,
+  "ocr_reason_counts": {
+    "broken_devanagari": 2,
+    "mojibake": 1
+  },
+  "section_count": 2,
+  "chunks_with_section": 3,
+  "chunk_count": 4,
+  "chunk_token_counts": [
+    35,
+    1231,
+    1219,
+    972
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.079,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_b2444aee9e8652e19090.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_b2444aee9e8652e19090.jsonl"
+  }
+}

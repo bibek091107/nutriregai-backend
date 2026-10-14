@@ -1,0 +1,46 @@
+{
+  "document_id": "fssai_437071fdabf8a34de31b",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Advertising_and_Claims_Gazette_Amendment_Notification__30th_August_2022__-_Gazette_Notification_Advertisement_01_09_2022.pdf",
+  "title": "Advertising and Claims Gazette Amendment Notification (30th August 2022) - Gazette_Notification_Advertisement_01_09_2022.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Advertising and Claims",
+  "version": "Current",
+  "effective_date": "30th August 2022",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/advertising-claims/Gazette_Notification_Advertisement_01_09_2022.pdf",
+  "source_sha256": "92e1dd4a193b3e349a0ad4e90ff68d2f63623fd5021f826e5278ba530da19e05",
+  "file_size": 1137703,
+  "page_count": 6,
+  "extracted_at": "2026-09-28T21:58:26.041980+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 1,
+  "pages_needing_ocr": 5,
+  "ocr_reason_counts": {
+    "broken_devanagari": 5
+  },
+  "section_count": 2,
+  "chunks_with_section": 6,
+  "chunk_count": 7,
+  "chunk_token_counts": [
+    85,
+    1201,
+    1223,
+    1239,
+    1248,
+    1209,
+    756
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.167,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_437071fdabf8a34de31b.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_437071fdabf8a34de31b.jsonl"
+  }
+}

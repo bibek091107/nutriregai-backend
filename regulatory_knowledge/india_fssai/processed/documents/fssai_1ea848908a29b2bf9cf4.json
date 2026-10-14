@@ -1,0 +1,47 @@
+{
+  "document_id": "fssai_1ea848908a29b2bf9cf4",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__20th_July_2018__-_Gazette_Notification_Spring.pdf",
+  "title": "Food Products Standards and Food Additives Gazette Amendment Notification (20th July 2018) - Gazette_Notification_Spring_Water_01_08_2018.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "20th July 2018",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/food-products-standards/Gazette_Notification_Spring_Water_01_08_2018.pdf",
+  "source_sha256": "9a8d5147e733bcd0ef72f25219ee6a736667eb4882ea3826e114632041e179a3",
+  "file_size": 354128,
+  "page_count": 6,
+  "extracted_at": "2026-09-28T21:58:42.713426+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 2,
+  "pages_needing_ocr": 4,
+  "ocr_reason_counts": {
+    "broken_devanagari": 4,
+    "mojibake": 2
+  },
+  "section_count": 2,
+  "chunks_with_section": 6,
+  "chunk_count": 7,
+  "chunk_token_counts": [
+    35,
+    1211,
+    1237,
+    1210,
+    1206,
+    1226,
+    388
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.132,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_1ea848908a29b2bf9cf4.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_1ea848908a29b2bf9cf4.jsonl"
+  }
+}

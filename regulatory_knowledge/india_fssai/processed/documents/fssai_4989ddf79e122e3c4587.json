@@ -1,0 +1,51 @@
+{
+  "document_id": "fssai_4989ddf79e122e3c4587",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__28th_November_2019__-_5de756dbc57f2Gazette_No.pdf",
+  "title": "Food Products Standards and Food Additives Gazette Amendment Notification (28th November 2019) - 5de756dbc57f2Gazette_Notification_Goat_Sheep_Milk_04_12_2019.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "28th November 2019",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/food-products-standards/5de756dbc57f2Gazette_Notification_Goat_Sheep_Milk_04_12_2019.pdf",
+  "source_sha256": "9782a8c2cf35051b99db0708305d7d7dff578df53e91713443dfce35e6c39894",
+  "file_size": 533454,
+  "page_count": 10,
+  "extracted_at": "2026-09-28T21:58:49.059073+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 4,
+  "pages_needing_ocr": 6,
+  "ocr_reason_counts": {
+    "broken_devanagari": 6,
+    "mojibake": 3
+  },
+  "section_count": 2,
+  "chunks_with_section": 10,
+  "chunk_count": 11,
+  "chunk_token_counts": [
+    35,
+    1200,
+    1203,
+    1215,
+    1206,
+    1228,
+    1212,
+    1204,
+    1204,
+    1200,
+    720
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.226,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_4989ddf79e122e3c4587.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_4989ddf79e122e3c4587.jsonl"
+  }
+}

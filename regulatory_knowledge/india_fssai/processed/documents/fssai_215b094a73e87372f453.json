@@ -1,0 +1,39 @@
+{
+  "document_id": "fssai_215b094a73e87372f453",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Food_Safety_and_Standards__Vegan_Foods__Regulations__2022__Revised_guidelines_dated_24th_February_2023_for_submission_of.pdf",
+  "title": "Food Safety and Standards (Vegan Foods) Regulations, 2022 (Revised guidelines dated 24th February 2023 for submission of applications for endorsement of vegan logo and formats thereof (Uploaded on 27.02.2022))",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "General Regulatory Framework",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/Guidelines%20dated%2024th_February(2).pdf",
+  "source_sha256": "3b6b84b5e196add34a6e7362e14ce1c0ab74c15ec980560ee7ffa25a6ee8cde8",
+  "file_size": 1639674,
+  "page_count": 10,
+  "extracted_at": "2026-09-28T22:00:07.784181+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 0,
+  "pages_needing_ocr": 10,
+  "ocr_reason_counts": {
+    "low_text": 10,
+    "image_dominated": 10
+  },
+  "section_count": 0,
+  "chunks_with_section": 0,
+  "chunk_count": 0,
+  "chunk_token_counts": [],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.002,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_215b094a73e87372f453.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_215b094a73e87372f453.jsonl"
+  }
+}

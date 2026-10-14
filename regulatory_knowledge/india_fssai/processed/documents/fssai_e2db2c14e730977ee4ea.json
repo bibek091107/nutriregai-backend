@@ -1,0 +1,48 @@
+{
+  "document_id": "fssai_e2db2c14e730977ee4ea",
+  "local_path": "regulatory_knowledge/india_fssai/notifications/Food_Products_Standards_and_Food_Additives_Gazette_Amendment_Notification__31st_July_2017__-_Gazette_Notification_FPS_FA.pdf",
+  "title": "Food Products Standards and Food Additives Gazette Amendment Notification (31st July 2017) - Gazette_Notification_FPS_FA_Alcoholic_Beverages_08_08_2017.pdf",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "NOTIFICATION",
+  "category": "Food Products Standards and Food Additives",
+  "version": "Current",
+  "effective_date": "31st July 2017",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/amendments/food-products-standards/Gazette_Notification_FPS_FA_Alcoholic_Beverages_08_08_2017.pdf",
+  "source_sha256": "f546b4d7ce7ab24986bb004b561ff39bb3fa0cf33364a2c994632a8aa5e24c3f",
+  "file_size": 1344688,
+  "page_count": 10,
+  "extracted_at": "2026-09-28T21:58:51.926386+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 5,
+  "pages_needing_ocr": 5,
+  "ocr_reason_counts": {
+    "broken_devanagari": 5
+  },
+  "section_count": 2,
+  "chunks_with_section": 8,
+  "chunk_count": 9,
+  "chunk_token_counts": [
+    167,
+    1275,
+    1201,
+    1203,
+    1218,
+    1202,
+    1200,
+    1220,
+    191
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.174,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_e2db2c14e730977ee4ea.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_e2db2c14e730977ee4ea.jsonl"
+  }
+}

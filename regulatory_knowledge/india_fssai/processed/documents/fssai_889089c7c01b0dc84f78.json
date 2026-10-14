@@ -1,0 +1,52 @@
+{
+  "document_id": "fssai_889089c7c01b0dc84f78",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Food_Safety_and_Standards__Safe_Food_and_Balanced_Diets_for_Children_in_School__Regulations__2020.pdf",
+  "title": "Food Safety and Standards (Safe Food and Balanced Diets for Children in School) Regulations, 2020",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "General Regulatory Framework",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/Gazette_Notification_Safe_Food_Children_07_09_2020.pdf",
+  "source_sha256": "be4ef86ad13b421347d3a11abb75831959d5359af1e509524537e8cd85854e51",
+  "file_size": 648048,
+  "page_count": 9,
+  "extracted_at": "2026-09-28T22:00:07.533976+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 4,
+  "pages_needing_ocr": 5,
+  "ocr_reason_counts": {
+    "mojibake": 1,
+    "broken_devanagari": 5
+  },
+  "section_count": 6,
+  "chunks_with_section": 10,
+  "chunk_count": 12,
+  "chunk_token_counts": [
+    199,
+    1217,
+    1207,
+    1218,
+    1209,
+    1216,
+    1214,
+    590,
+    317,
+    197,
+    264,
+    322
+  ],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.254,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_889089c7c01b0dc84f78.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_889089c7c01b0dc84f78.jsonl"
+  }
+}

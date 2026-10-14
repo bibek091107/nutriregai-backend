@@ -1,0 +1,39 @@
+{
+  "document_id": "fssai_bc0e67d6a5f2476490a0",
+  "local_path": "regulatory_knowledge/india_fssai/regulations/Salary__Allowances_and_Other_Conditions_of_Service_of_Officers_and_Employees_Regulations__2013.pdf",
+  "title": "Salary, Allowances and Other Conditions of Service of Officers and Employees Regulations, 2013",
+  "authority": "FSSAI",
+  "jurisdiction": "INDIA_FSSAI",
+  "source_type": "REGULATION",
+  "category": "General Regulatory Framework",
+  "version": "Current",
+  "effective_date": "2011",
+  "retrieved_at": "2026-09-28T20:29:39.038272+00:00",
+  "source_url": "https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php",
+  "document_url": "https://www.fssai.gov.in/docs/food-law/regulations/Gazette_Notification_22_08_2013.pdf",
+  "source_sha256": "aae7abcaa84d172b4811e7179a2b05f4a4481af6fe1b141bd7103a7b4d5e60a9",
+  "file_size": 528095,
+  "page_count": 12,
+  "extracted_at": "2026-09-28T22:00:11.550645+00:00",
+  "status": "SUCCESS",
+  "pages_with_text": 0,
+  "pages_needing_ocr": 12,
+  "ocr_reason_counts": {
+    "low_text": 12,
+    "image_dominated": 12
+  },
+  "section_count": 0,
+  "chunks_with_section": 0,
+  "chunk_count": 0,
+  "chunk_token_counts": [],
+  "alias_claimants": [],
+  "has_manifest_collision": false,
+  "warnings": [],
+  "error": null,
+  "duration_seconds": 0.847,
+  "outputs": {
+    "document": "regulatory_knowledge/india_fssai/processed/documents/fssai_bc0e67d6a5f2476490a0.json",
+    "pages": null,
+    "chunks": "regulatory_knowledge/india_fssai/processed/chunks/fssai_bc0e67d6a5f2476490a0.jsonl"
+  }
+}
